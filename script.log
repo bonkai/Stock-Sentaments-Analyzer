@@ -1,0 +1,649 @@
+2024-10-21 16:09:53,422 - INFO - Loaded 297 processed URLs.
+2024-10-21 16:09:53,912 - INFO - Found 1424 unique links.
+2024-10-21 16:09:53,926 - INFO - 
+Processing article (1/1424): https://biztoc.com/x/70de32c946296e64
+2024-10-21 16:09:54,135 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:09:59,647 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:09:59,653 - INFO - No stock sentiments found in https://biztoc.com/x/70de32c946296e64. Skipping save.
+2024-10-21 16:10:00,662 - INFO - 
+Processing article (2/1424): https://www.nytimes.com/2024/10/21/business/energy-environment/arkansas-lithium-ev-batteries.html?ref=biztoc.com
+2024-10-21 16:10:00,805 - ERROR - Error scraping article https://www.nytimes.com/2024/10/21/business/energy-environment/arkansas-lithium-ev-batteries.html?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.nytimes.com/2024/10/21/business/energy-environment/arkansas-lithium-ev-batteries.html?ref=biztoc.com
+2024-10-21 16:10:00,806 - INFO - Skipping https://www.nytimes.com/2024/10/21/business/energy-environment/arkansas-lithium-ev-batteries.html?ref=biztoc.com due to empty content.
+2024-10-21 16:10:00,807 - INFO - 
+Processing article (3/1424): https://biztoc.com/x/d6370e0168aa02c5
+2024-10-21 16:10:01,011 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:04,650 - INFO - Completed in 2.16 seconds with 36 chunks received.
+2024-10-21 16:10:04,670 - INFO - No stock sentiments found in https://biztoc.com/x/d6370e0168aa02c5. Skipping save.
+2024-10-21 16:10:05,680 - INFO - 
+Processing article (4/1424): https://www.barrons.com/livecoverage/stock-market-today-102124/card/the-dow-and-s-p-500-end-lower-on-a-brutal-day-for-most-stocks--TRHM5suKxuWPeXtCaj6J?ref=biztoc.com
+2024-10-21 16:10:05,856 - ERROR - Error scraping article https://www.barrons.com/livecoverage/stock-market-today-102124/card/the-dow-and-s-p-500-end-lower-on-a-brutal-day-for-most-stocks--TRHM5suKxuWPeXtCaj6J?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.barrons.com/livecoverage/stock-market-today-102124/card/the-dow-and-s-p-500-end-lower-on-a-brutal-day-for-most-stocks--TRHM5suKxuWPeXtCaj6J?ref=biztoc.com
+2024-10-21 16:10:05,857 - INFO - Skipping https://www.barrons.com/livecoverage/stock-market-today-102124/card/the-dow-and-s-p-500-end-lower-on-a-brutal-day-for-most-stocks--TRHM5suKxuWPeXtCaj6J?ref=biztoc.com due to empty content.
+2024-10-21 16:10:05,857 - INFO - Skipping already processed URL (5/1424): https://biztoc.com/x/b346944c66b7b6e5
+2024-10-21 16:10:05,857 - INFO - 
+Processing article (6/1424): http://en.wikipedia.org/wiki/tourism_in_Malaysia
+2024-10-21 16:10:06,482 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:11,990 - INFO - Completed in 1.61 seconds with 28 chunks received.
+2024-10-21 16:10:11,998 - INFO - No stock sentiments found in http://en.wikipedia.org/wiki/tourism_in_Malaysia. Skipping save.
+2024-10-21 16:10:13,009 - INFO - 
+Processing article (7/1424): https://asia.nikkei.com/Economy/Laos-pins-hopes-on-gold-trading-as-economy-falters?ref=biztoc.com
+2024-10-21 16:10:14,023 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:19,166 - INFO - Completed in 2.84 seconds with 48 chunks received.
+2024-10-21 16:10:19,175 - INFO - No stock sentiments found in https://asia.nikkei.com/Economy/Laos-pins-hopes-on-gold-trading-as-economy-falters?ref=biztoc.com. Skipping save.
+2024-10-21 16:10:20,185 - INFO - 
+Processing article (8/1424): https://investorplace.com
+2024-10-21 16:10:20,472 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:22,486 - INFO - Completed in 1.19 seconds with 21 chunks received.
+2024-10-21 16:10:22,491 - INFO - No stock sentiments found in https://investorplace.com. Skipping save.
+2024-10-21 16:10:23,504 - INFO - 
+Processing article (9/1424): https://biztoc.com/x/2d3ba2d66f3fa6b5
+2024-10-21 16:10:23,780 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:26,624 - INFO - Completed in 2.09 seconds with 36 chunks received.
+2024-10-21 16:10:26,629 - INFO - No stock sentiments found in https://biztoc.com/x/2d3ba2d66f3fa6b5. Skipping save.
+2024-10-21 16:10:27,637 - INFO - 
+Processing article (10/1424): https://biztoc.com/x/2d9b7feaba4aef78
+2024-10-21 16:10:27,888 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:30,641 - INFO - Completed in 1.96 seconds with 34 chunks received.
+2024-10-21 16:10:30,648 - INFO - No stock sentiments found in https://biztoc.com/x/2d9b7feaba4aef78. Skipping save.
+2024-10-21 16:10:31,651 - INFO - 
+Processing article (11/1424): https://biztoc.com/x/13908c8a1f44987e
+2024-10-21 16:10:31,877 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:34,853 - INFO - Completed in 2.21 seconds with 38 chunks received.
+2024-10-21 16:10:34,861 - INFO - No stock sentiments found in https://biztoc.com/x/13908c8a1f44987e. Skipping save.
+2024-10-21 16:10:35,866 - INFO - 
+Processing article (12/1424): https://biztoc.com/x/b7c2a2687b472193
+2024-10-21 16:10:36,130 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:39,042 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:10:39,048 - INFO - No stock sentiments found in https://biztoc.com/x/b7c2a2687b472193. Skipping save.
+2024-10-21 16:10:40,058 - INFO - 
+Processing article (13/1424): https://biztoc.com/x/5063a36ecfbaa112
+2024-10-21 16:10:40,287 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:43,214 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:10:43,221 - INFO - No stock sentiments found in https://biztoc.com/x/5063a36ecfbaa112. Skipping save.
+2024-10-21 16:10:44,227 - INFO - 
+Processing article (14/1424): https://www.scmp.com/tech/big-tech/article/3283274/beijing-ai-academy-launches-new-multimodal-model-largest-tech-contribution?ref=biztoc.com
+2024-10-21 16:10:44,433 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:48,944 - INFO - Completed in 3.41 seconds with 58 chunks received.
+2024-10-21 16:10:48,952 - INFO - No stock sentiments found in https://www.scmp.com/tech/big-tech/article/3283274/beijing-ai-academy-launches-new-multimodal-model-largest-tech-contribution?ref=biztoc.com. Skipping save.
+2024-10-21 16:10:49,964 - INFO - Skipping already processed URL (15/1424): https://www.nbcnews.com/politics/supreme-court/supreme-court-rejects-michael-cohens-civil-rights-claim-trump-rcna176094?ref=biztoc.com
+2024-10-21 16:10:49,965 - INFO - 
+Processing article (16/1424): https://biztoc.com/light
+2024-10-21 16:10:50,210 - INFO - Skipping https://biztoc.com/light due to empty content.
+2024-10-21 16:10:50,210 - INFO - 
+Processing article (17/1424): https://twitter.com/search?q=Social%20Security
+2024-10-21 16:10:50,367 - INFO - Skipping https://twitter.com/search?q=Social%20Security due to empty content.
+2024-10-21 16:10:50,367 - INFO - Skipping already processed URL (18/1424): https://www.statista.com/chart/33303/most-common-country-of-origin-for-immigrants/?ref=biztoc.com
+2024-10-21 16:10:50,367 - INFO - 
+Processing article (19/1424): https://biztoc.com/x/f443c2f5a6e26b26
+2024-10-21 16:10:50,760 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:10:55,424 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:10:55,429 - INFO - No stock sentiments found in https://biztoc.com/x/f443c2f5a6e26b26. Skipping save.
+2024-10-21 16:10:56,436 - INFO - Skipping already processed URL (20/1424): https://www.marketplace.org/2024/10/18/13-gop-led-states-rejected-federal-funding-to-feed-kids-where-does-that-unused-money-go/?ref=biztoc.com
+2024-10-21 16:10:56,437 - INFO - 
+Processing article (21/1424): https://biztoc.com/x/c30284c4843665a5
+2024-10-21 16:10:57,007 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:01,212 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:11:01,218 - INFO - No stock sentiments found in https://biztoc.com/x/c30284c4843665a5. Skipping save.
+2024-10-21 16:11:02,226 - INFO - 
+Processing article (22/1424): https://www.bostonherald.com/2024/10/21/looking-for-a-holiday-job-start-applying-now/?ref=biztoc.com
+2024-10-21 16:11:02,865 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:06,869 - INFO - Completed in 2.99 seconds with 51 chunks received.
+2024-10-21 16:11:06,874 - INFO - No stock sentiments found in https://www.bostonherald.com/2024/10/21/looking-for-a-holiday-job-start-applying-now/?ref=biztoc.com. Skipping save.
+2024-10-21 16:11:07,883 - INFO - 
+Processing article (23/1424): https://biztoc.com/x/2f141b57e15e6601
+2024-10-21 16:11:08,122 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:11,103 - INFO - Completed in 2.20 seconds with 38 chunks received.
+2024-10-21 16:11:11,110 - INFO - No stock sentiments found in https://biztoc.com/x/2f141b57e15e6601. Skipping save.
+2024-10-21 16:11:12,118 - INFO - 
+Processing article (24/1424): https://biztoc.com/x/94b0df02c48025ac
+2024-10-21 16:11:12,413 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:15,251 - INFO - Completed in 2.09 seconds with 36 chunks received.
+2024-10-21 16:11:15,257 - INFO - No stock sentiments found in https://biztoc.com/x/94b0df02c48025ac. Skipping save.
+2024-10-21 16:11:16,266 - INFO - 
+Processing article (25/1424): https://www.fastcompany.com/91212946/abortion-rights-dominate-2024-election-could-access-to-ivf-sway-it?ref=biztoc.com
+2024-10-21 16:11:16,443 - ERROR - Error scraping article https://www.fastcompany.com/91212946/abortion-rights-dominate-2024-election-could-access-to-ivf-sway-it?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.fastcompany.com/91212946/abortion-rights-dominate-2024-election-could-access-to-ivf-sway-it?ref=biztoc.com
+2024-10-21 16:11:16,444 - INFO - Skipping https://www.fastcompany.com/91212946/abortion-rights-dominate-2024-election-could-access-to-ivf-sway-it?ref=biztoc.com due to empty content.
+2024-10-21 16:11:16,444 - INFO - Skipping already processed URL (26/1424): https://biztoc.com/x/6b0b018f4c387369
+2024-10-21 16:11:16,444 - INFO - 
+Processing article (27/1424): https://biztoc.com/x/395025f5334763bb
+2024-10-21 16:11:16,628 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:19,891 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:11:19,897 - INFO - No stock sentiments found in https://biztoc.com/x/395025f5334763bb. Skipping save.
+2024-10-21 16:11:20,905 - INFO - 
+Processing article (28/1424): https://biztoc.com/x/2ad5f2b8ca3a2ac6
+2024-10-21 16:11:21,201 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:24,321 - INFO - Completed in 2.01 seconds with 35 chunks received.
+2024-10-21 16:11:24,327 - INFO - No stock sentiments found in https://biztoc.com/x/2ad5f2b8ca3a2ac6. Skipping save.
+2024-10-21 16:11:25,334 - INFO - 
+Processing article (29/1424): https://biztoc.com/x/75588d9e6b6f6509
+2024-10-21 16:11:25,600 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:28,722 - INFO - Completed in 2.25 seconds with 38 chunks received.
+2024-10-21 16:11:28,735 - INFO - No stock sentiments found in https://biztoc.com/x/75588d9e6b6f6509. Skipping save.
+2024-10-21 16:11:29,746 - INFO - 
+Processing article (30/1424): https://www.forbes.com/sites/steveandriole/2024/10/21/netflix-needs-customer-service-help-like-all-of-our-content-providers/?ref=biztoc.com
+2024-10-21 16:11:30,713 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:11:36,827 - INFO - Completed in 4.24 seconds with 72 chunks received.
+2024-10-21 16:11:36,837 - INFO - Sentiment for https://www.forbes.com/sites/steveandriole/2024/10/21/netflix-needs-customer-service-help-like-all-of-our-content-providers/?ref=biztoc.com saved.
+2024-10-21 16:11:37,843 - INFO - 
+Processing article (31/1424): https://thehill.com/business/4944798-social-security-funds-could-run-out-in-6-years-under-trump-plans-analysis/?ref=biztoc.com
+2024-10-21 16:11:38,128 - ERROR - Error scraping article https://thehill.com/business/4944798-social-security-funds-could-run-out-in-6-years-under-trump-plans-analysis/?ref=biztoc.com: 403 Client Error: Forbidden for url: https://thehill.com/business/4944798-social-security-funds-could-run-out-in-6-years-under-trump-plans-analysis/?ref=biztoc.com
+2024-10-21 16:11:38,129 - INFO - Skipping https://thehill.com/business/4944798-social-security-funds-could-run-out-in-6-years-under-trump-plans-analysis/?ref=biztoc.com due to empty content.
+2024-10-21 16:11:38,130 - INFO - 
+Processing article (32/1424): https://twitter.com/search?q=McDonald
+2024-10-21 16:11:38,287 - INFO - Skipping https://twitter.com/search?q=McDonald due to empty content.
+2024-10-21 16:11:38,288 - INFO - 
+Processing article (33/1424): https://www.seattletimes.com/business/
+2024-10-21 16:11:56,451 - ERROR - Error scraping article https://www.seattletimes.com/business/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-10-21 16:11:56,451 - INFO - Skipping https://www.seattletimes.com/business/ due to empty content.
+2024-10-21 16:11:56,452 - INFO - 
+Processing article (34/1424): https://biztoc.com/x/4f2a75bab714aff4
+2024-10-21 16:11:56,677 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:00,887 - INFO - Completed in 1.94 seconds with 34 chunks received.
+2024-10-21 16:12:00,893 - INFO - No stock sentiments found in https://biztoc.com/x/4f2a75bab714aff4. Skipping save.
+2024-10-21 16:12:01,901 - INFO - 
+Processing article (35/1424): https://biztoc.com/x/e00ec081c6527b18
+2024-10-21 16:12:02,120 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:05,607 - INFO - Completed in 2.06 seconds with 36 chunks received.
+2024-10-21 16:12:05,612 - INFO - No stock sentiments found in https://biztoc.com/x/e00ec081c6527b18. Skipping save.
+2024-10-21 16:12:06,619 - INFO - 
+Processing article (36/1424): https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com
+2024-10-21 16:12:07,238 - ERROR - Error scraping article https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com: 403 Client Error: Forbidden for url: https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com
+2024-10-21 16:12:07,241 - INFO - Skipping https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com due to empty content.
+2024-10-21 16:12:07,242 - INFO - 
+Processing article (37/1424): https://www.euractiv.com/section/health-consumers/news/denmark-negotiating-new-patient-safety-reporting-system-after-government-u-turn/?ref=biztoc.com
+2024-10-21 16:12:07,703 - ERROR - Error scraping article https://www.euractiv.com/section/health-consumers/news/denmark-negotiating-new-patient-safety-reporting-system-after-government-u-turn/?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.euractiv.com/section/health-consumers/news/denmark-negotiating-new-patient-safety-reporting-system-after-government-u-turn/?ref=biztoc.com
+2024-10-21 16:12:07,706 - INFO - Skipping https://www.euractiv.com/section/health-consumers/news/denmark-negotiating-new-patient-safety-reporting-system-after-government-u-turn/?ref=biztoc.com due to empty content.
+2024-10-21 16:12:07,707 - INFO - Skipping already processed URL (38/1424): https://twitter.com/search?q=Newsweek
+2024-10-21 16:12:07,708 - INFO - 
+Processing article (39/1424): http://en.wikipedia.org/wiki/Malaysia
+2024-10-21 16:12:08,399 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:11,224 - INFO - Completed in 1.54 seconds with 24 chunks received.
+2024-10-21 16:12:11,230 - INFO - No stock sentiments found in http://en.wikipedia.org/wiki/Malaysia. Skipping save.
+2024-10-21 16:12:12,242 - INFO - 
+Processing article (40/1424): https://twitter.com/search?q=%23Married2Med
+2024-10-21 16:12:12,486 - INFO - Skipping https://twitter.com/search?q=%23Married2Med due to empty content.
+2024-10-21 16:12:12,486 - INFO - 
+Processing article (41/1424): https://biztoc.com/x/ab97cbc5ecff0f8c
+2024-10-21 16:12:12,736 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:17,505 - INFO - Completed in 2.01 seconds with 33 chunks received.
+2024-10-21 16:12:17,512 - INFO - No stock sentiments found in https://biztoc.com/x/ab97cbc5ecff0f8c. Skipping save.
+2024-10-21 16:12:18,522 - INFO - 
+Processing article (42/1424): https://t.betteruptime.com
+2024-10-21 16:12:19,379 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:23,554 - INFO - Completed in 1.24 seconds with 22 chunks received.
+2024-10-21 16:12:23,557 - INFO - No stock sentiments found in https://t.betteruptime.com. Skipping save.
+2024-10-21 16:12:24,562 - INFO - 
+Processing article (43/1424): https://www.androidauthority.com/snapdragon-8-elite-deep-dive-3491526/?ref=biztoc.com
+2024-10-21 16:12:25,495 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:28,979 - INFO - Completed in 2.67 seconds with 46 chunks received.
+2024-10-21 16:12:28,984 - INFO - No stock sentiments found in https://www.androidauthority.com/snapdragon-8-elite-deep-dive-3491526/?ref=biztoc.com. Skipping save.
+2024-10-21 16:12:29,992 - INFO - Skipping already processed URL (44/1424): https://biztoc.com/x/095f1ad717b28f97
+2024-10-21 16:12:29,993 - INFO - 
+Processing article (45/1424): https://www.bbc.com/news/articles/c7v62gg49zro?ref=biztoc.com
+2024-10-21 16:12:30,309 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:33,415 - INFO - Completed in 2.31 seconds with 39 chunks received.
+2024-10-21 16:12:33,425 - INFO - No stock sentiments found in https://www.bbc.com/news/articles/c7v62gg49zro?ref=biztoc.com. Skipping save.
+2024-10-21 16:12:34,433 - INFO - 
+Processing article (46/1424): https://biztoc.com/x/e8440e8f3ab4358b
+2024-10-21 16:12:34,692 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:37,570 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:12:37,575 - INFO - No stock sentiments found in https://biztoc.com/x/e8440e8f3ab4358b. Skipping save.
+2024-10-21 16:12:38,584 - INFO - 
+Processing article (47/1424): https://www.coindesk.com/markets/2024/10/21/bitcoin-pulls-back-below-67k-is-another-crypto-rally-failing/?ref=biztoc.com
+2024-10-21 16:12:39,203 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:44,443 - INFO - Completed in 4.19 seconds with 71 chunks received.
+2024-10-21 16:12:44,448 - INFO - Sentiment for https://www.coindesk.com/markets/2024/10/21/bitcoin-pulls-back-below-67k-is-another-crypto-rally-failing/?ref=biztoc.com saved.
+2024-10-21 16:12:45,457 - INFO - 
+Processing article (48/1424): https://biztoc.com/x/1203914189cfa170
+2024-10-21 16:12:45,684 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:12:48,602 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:12:48,607 - INFO - No stock sentiments found in https://biztoc.com/x/1203914189cfa170. Skipping save.
+2024-10-21 16:12:49,616 - INFO - 
+Processing article (49/1424): https://www.cbc.ca/news/politics/temporary-foreign-workers-1.7358215?ref=biztoc.com
+2024-10-21 16:13:19,858 - ERROR - Error scraping article https://www.cbc.ca/news/politics/temporary-foreign-workers-1.7358215?ref=biztoc.com: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=30)
+2024-10-21 16:13:19,858 - INFO - Skipping https://www.cbc.ca/news/politics/temporary-foreign-workers-1.7358215?ref=biztoc.com due to empty content.
+2024-10-21 16:13:19,860 - INFO - 
+Processing article (50/1424): https://biztoc.com/x/9fe741b4ea50b66f
+2024-10-21 16:13:20,093 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:25,025 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:13:25,032 - INFO - No stock sentiments found in https://biztoc.com/x/9fe741b4ea50b66f. Skipping save.
+2024-10-21 16:13:26,043 - INFO - 
+Processing article (51/1424): https://financialpost.com/news/oil-prices-could-be-halved-if-saudis-open-taps?ref=biztoc.com
+2024-10-21 16:13:26,647 - ERROR - Error scraping article https://financialpost.com/news/oil-prices-could-be-halved-if-saudis-open-taps?ref=biztoc.com: 403 Client Error: Forbidden for url: https://financialpost.com/news/oil-prices-could-be-halved-if-saudis-open-taps?ref=biztoc.com
+2024-10-21 16:13:26,650 - INFO - Skipping https://financialpost.com/news/oil-prices-could-be-halved-if-saudis-open-taps?ref=biztoc.com due to empty content.
+2024-10-21 16:13:26,652 - INFO - 
+Processing article (52/1424): https://biztoc.com/x/2cab2b2df2acee8c
+2024-10-21 16:13:26,861 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:29,648 - INFO - Completed in 1.91 seconds with 33 chunks received.
+2024-10-21 16:13:29,654 - INFO - No stock sentiments found in https://biztoc.com/x/2cab2b2df2acee8c. Skipping save.
+2024-10-21 16:13:30,661 - INFO - 
+Processing article (53/1424): https://finance.yahoo.com/news/think-too-buy-nvidia-heres-182908366.html?ref=biztoc.com
+2024-10-21 16:13:31,424 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:35,821 - INFO - Completed in 3.40 seconds with 58 chunks received.
+2024-10-21 16:13:35,826 - INFO - Sentiment for https://finance.yahoo.com/news/think-too-buy-nvidia-heres-182908366.html?ref=biztoc.com saved.
+2024-10-21 16:13:36,844 - INFO - 
+Processing article (54/1424): https://www.morningbrew.com/daily/stories/2024/10/20/why-wordpress-s-ceo-is-spooking-the-internet?utm_source=&ref=biztoc.com
+2024-10-21 16:13:37,103 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:42,386 - INFO - Completed in 4.24 seconds with 72 chunks received.
+2024-10-21 16:13:42,393 - INFO - Sentiment for https://www.morningbrew.com/daily/stories/2024/10/20/why-wordpress-s-ceo-is-spooking-the-internet?utm_source=&ref=biztoc.com saved.
+2024-10-21 16:13:43,397 - INFO - 
+Processing article (55/1424): https://www.vox.com/future-perfect/378423/religion-humanism-atheism-parenting-good-without-god?ref=biztoc.com
+2024-10-21 16:13:43,859 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:50,213 - INFO - Completed in 3.13 seconds with 53 chunks received.
+2024-10-21 16:13:50,220 - INFO - No stock sentiments found in https://www.vox.com/future-perfect/378423/religion-humanism-atheism-parenting-good-without-god?ref=biztoc.com. Skipping save.
+2024-10-21 16:13:51,228 - INFO - 
+Processing article (56/1424): https://asia.nikkei.com/Economy/China-s-promotion-of-camping-skiing-creates-tailwind-for-brands-like-Salomon?ref=biztoc.com
+2024-10-21 16:13:52,256 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:13:57,212 - INFO - Completed in 3.81 seconds with 65 chunks received.
+2024-10-21 16:13:57,222 - INFO - Sentiment for https://asia.nikkei.com/Economy/China-s-promotion-of-camping-skiing-creates-tailwind-for-brands-like-Salomon?ref=biztoc.com saved.
+2024-10-21 16:13:58,234 - INFO - 
+Processing article (57/1424): https://finance.yahoo.com/quote/%5EGDAXI
+2024-10-21 16:13:59,121 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:01,525 - INFO - Completed in 1.60 seconds with 28 chunks received.
+2024-10-21 16:14:01,530 - INFO - No stock sentiments found in https://finance.yahoo.com/quote/%5EGDAXI. Skipping save.
+2024-10-21 16:14:02,539 - INFO - 
+Processing article (58/1424): https://biztoc.com/x/2b3b6afd3ce91f6a
+2024-10-21 16:14:02,822 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:05,591 - INFO - Completed in 2.01 seconds with 35 chunks received.
+2024-10-21 16:14:05,596 - INFO - No stock sentiments found in https://biztoc.com/x/2b3b6afd3ce91f6a. Skipping save.
+2024-10-21 16:14:06,606 - INFO - 
+Processing article (59/1424): https://wolfstreet.com/2024/10/18/used-vehicles-getting-ready-to-turn-into-inflation-headwind-after-historic-plunge-had-powered-the-deceleration-of-core-cpi/?ref=biztoc.com
+2024-10-21 16:14:07,868 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:13,021 - INFO - Completed in 4.07 seconds with 69 chunks received.
+2024-10-21 16:14:13,031 - INFO - No stock sentiments found in https://wolfstreet.com/2024/10/18/used-vehicles-getting-ready-to-turn-into-inflation-headwind-after-historic-plunge-had-powered-the-deceleration-of-core-cpi/?ref=biztoc.com. Skipping save.
+2024-10-21 16:14:14,036 - INFO - Skipping already processed URL (60/1424): https://www.theblock.co/
+2024-10-21 16:14:14,038 - INFO - 
+Processing article (61/1424): https://biztoc.com/x/ce115b47e5d4398e
+2024-10-21 16:14:14,357 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:18,414 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:14:18,422 - INFO - No stock sentiments found in https://biztoc.com/x/ce115b47e5d4398e. Skipping save.
+2024-10-21 16:14:19,428 - INFO - 
+Processing article (62/1424): https://biztoc.com/x/47da6e34b6ff74cc
+2024-10-21 16:14:19,660 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:22,430 - INFO - Completed in 2.03 seconds with 35 chunks received.
+2024-10-21 16:14:22,435 - INFO - No stock sentiments found in https://biztoc.com/x/47da6e34b6ff74cc. Skipping save.
+2024-10-21 16:14:23,443 - INFO - 
+Processing article (63/1424): https://www.theguardian.com/global-development/2024/oct/21/employment-rights-reforms-could-cost-uk-businesses-5bn-a-year?ref=biztoc.com
+2024-10-21 16:14:23,604 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:27,872 - INFO - Completed in 3.27 seconds with 56 chunks received.
+2024-10-21 16:14:27,879 - INFO - No stock sentiments found in https://www.theguardian.com/global-development/2024/oct/21/employment-rights-reforms-could-cost-uk-businesses-5bn-a-year?ref=biztoc.com. Skipping save.
+2024-10-21 16:14:28,885 - INFO - 
+Processing article (64/1424): https://www.ft.com/content/e8b2ff85-a4dd-40cd-a4c1-e3d70686917f?ref=biztoc.com
+2024-10-21 16:14:29,425 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:33,790 - INFO - Completed in 3.34 seconds with 57 chunks received.
+2024-10-21 16:14:33,795 - INFO - No stock sentiments found in https://www.ft.com/content/e8b2ff85-a4dd-40cd-a4c1-e3d70686917f?ref=biztoc.com. Skipping save.
+2024-10-21 16:14:34,814 - INFO - 
+Processing article (65/1424): https://biztoc.com/x/ddf3014d44f502e1
+2024-10-21 16:14:35,133 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:38,382 - INFO - Completed in 2.09 seconds with 36 chunks received.
+2024-10-21 16:14:38,392 - INFO - No stock sentiments found in https://biztoc.com/x/ddf3014d44f502e1. Skipping save.
+2024-10-21 16:14:39,400 - INFO - 
+Processing article (66/1424): https://biztoc.com/x/4a3d494c43501481
+2024-10-21 16:14:40,037 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:43,033 - INFO - Completed in 2.20 seconds with 38 chunks received.
+2024-10-21 16:14:43,039 - INFO - No stock sentiments found in https://biztoc.com/x/4a3d494c43501481. Skipping save.
+2024-10-21 16:14:44,044 - INFO - 
+Processing article (67/1424): https://today.yougov.com/politics/articles/50741-republicans-say-poll-workers-will-tamper-election?ref=biztoc.com
+2024-10-21 16:14:45,021 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:50,414 - INFO - Completed in 2.99 seconds with 51 chunks received.
+2024-10-21 16:14:50,429 - INFO - No stock sentiments found in https://today.yougov.com/politics/articles/50741-republicans-say-poll-workers-will-tamper-election?ref=biztoc.com. Skipping save.
+2024-10-21 16:14:51,438 - INFO - 
+Processing article (68/1424): https://biztoc.com/x/1cdc976ccd05509f
+2024-10-21 16:14:51,677 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:14:54,391 - INFO - Completed in 1.96 seconds with 34 chunks received.
+2024-10-21 16:14:54,395 - INFO - No stock sentiments found in https://biztoc.com/x/1cdc976ccd05509f. Skipping save.
+2024-10-21 16:14:55,408 - INFO - 
+Processing article (69/1424): https://www.benzinga.com/general/gaming/24/10/41435803/activisions-new-ai-strategy-aims-to-ban-call-of-duty-cheaters-within-one-hour-of-their-first-match?ref=biztoc.com
+2024-10-21 16:14:55,576 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:01,625 - INFO - Completed in 5.04 seconds with 85 chunks received.
+2024-10-21 16:15:01,632 - WARNING - Invalid sentiment data format for https://www.benzinga.com/general/gaming/24/10/41435803/activisions-new-ai-strategy-aims-to-ban-call-of-duty-cheaters-within-one-hour-of-their-first-match?ref=biztoc.com. Logging raw response.
+2024-10-21 16:15:02,643 - INFO - Skipping already processed URL (70/1424): https://blockworks.co/news/empire-newsletter-all-time-highs?ref=biztoc.com
+2024-10-21 16:15:02,644 - INFO - 
+Processing article (71/1424): https://biztoc.com/x/9cb6a4fbf71cd8ff
+2024-10-21 16:15:02,911 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:05,631 - INFO - Completed in 1.96 seconds with 34 chunks received.
+2024-10-21 16:15:05,640 - INFO - No stock sentiments found in https://biztoc.com/x/9cb6a4fbf71cd8ff. Skipping save.
+2024-10-21 16:15:06,650 - INFO - 
+Processing article (72/1424): https://biztoc.com/x/056b1784e78d93ff
+2024-10-21 16:15:06,935 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:09,844 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:15:09,852 - INFO - No stock sentiments found in https://biztoc.com/x/056b1784e78d93ff. Skipping save.
+2024-10-21 16:15:10,858 - INFO - Skipping already processed URL (73/1424): https://www.pymnts.com/news/banking/2024/santander-brings-digital-banking-platform-openbank-to-the-us/?ref=biztoc.com
+2024-10-21 16:15:10,860 - INFO - Skipping already processed URL (74/1424): https://www.barrons.com
+2024-10-21 16:15:10,860 - INFO - Skipping already processed URL (75/1424): https://biztoc.com/x/c0b3432bd035b910
+2024-10-21 16:15:10,860 - INFO - 
+Processing article (76/1424): https://www.semafor.com/article/10/21/2024/kamala-harris-campaign-reaches-record-highs-before-election?ref=biztoc.com
+2024-10-21 16:15:11,103 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:15,332 - INFO - Completed in 3.16 seconds with 54 chunks received.
+2024-10-21 16:15:15,339 - INFO - No stock sentiments found in https://www.semafor.com/article/10/21/2024/kamala-harris-campaign-reaches-record-highs-before-election?ref=biztoc.com. Skipping save.
+2024-10-21 16:15:16,343 - INFO - 
+Processing article (77/1424): https://www.entrepreneur.com/
+2024-10-21 16:15:16,582 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:18,569 - INFO - Completed in 1.24 seconds with 22 chunks received.
+2024-10-21 16:15:18,575 - INFO - No stock sentiments found in https://www.entrepreneur.com/. Skipping save.
+2024-10-21 16:15:19,587 - INFO - 
+Processing article (78/1424): https://www.bbc.com/news/articles/c625p2wy3q7o
+2024-10-21 16:15:19,742 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:22,467 - INFO - Completed in 1.96 seconds with 34 chunks received.
+2024-10-21 16:15:22,477 - INFO - No stock sentiments found in https://www.bbc.com/news/articles/c625p2wy3q7o. Skipping save.
+2024-10-21 16:15:23,489 - INFO - 
+Processing article (79/1424): https://biztoc.com/x/418ea63efb21546e
+2024-10-21 16:15:23,711 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:26,575 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:15:26,581 - INFO - No stock sentiments found in https://biztoc.com/x/418ea63efb21546e. Skipping save.
+2024-10-21 16:15:27,591 - INFO - 
+Processing article (80/1424): https://wolfstreet.com/2024/10/15/the-most-splendid-housing-bubbles-in-america-sept-update-prices-drop-in-26-of-28-big-metros-even-san-diego-los-angeles/?ref=biztoc.com
+2024-10-21 16:15:28,985 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:15:35,932 - INFO - Completed in 5.93 seconds with 100 chunks received.
+2024-10-21 16:15:35,937 - INFO - Sentiment for https://wolfstreet.com/2024/10/15/the-most-splendid-housing-bubbles-in-america-sept-update-prices-drop-in-26-of-28-big-metros-even-san-diego-los-angeles/?ref=biztoc.com saved.
+2024-10-21 16:15:36,958 - INFO - Skipping already processed URL (81/1424): https://www.inc.com
+2024-10-21 16:15:36,961 - INFO - Skipping already processed URL (82/1424): https://biztoc.com/x/d5dc9390e3793338
+2024-10-21 16:15:36,961 - INFO - 
+Processing article (83/1424): https://www.cbc.ca/s
+2024-10-21 16:16:07,081 - ERROR - Error scraping article https://www.cbc.ca/s: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=30)
+2024-10-21 16:16:07,082 - INFO - Skipping https://www.cbc.ca/s due to empty content.
+2024-10-21 16:16:07,084 - INFO - Skipping already processed URL (84/1424): https://tech.co/news/paid-time-off-to-vote?ref=biztoc.com
+2024-10-21 16:16:07,084 - INFO - 
+Processing article (85/1424): https://biztoc.com/x/1248d3dc12a8b627
+2024-10-21 16:16:07,505 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:12,845 - INFO - Completed in 2.12 seconds with 37 chunks received.
+2024-10-21 16:16:12,852 - INFO - No stock sentiments found in https://biztoc.com/x/1248d3dc12a8b627. Skipping save.
+2024-10-21 16:16:13,859 - INFO - 
+Processing article (86/1424): https://biztoc.com/x/61534f311948680b
+2024-10-21 16:16:14,125 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:17,684 - INFO - Completed in 2.20 seconds with 38 chunks received.
+2024-10-21 16:16:17,690 - INFO - No stock sentiments found in https://biztoc.com/x/61534f311948680b. Skipping save.
+2024-10-21 16:16:18,720 - INFO - 
+Processing article (87/1424): https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3?ref=biztoc.com
+2024-10-21 16:16:18,980 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:24,520 - INFO - Completed in 4.48 seconds with 75 chunks received.
+2024-10-21 16:16:24,529 - INFO - No stock sentiments found in https://apnews.com/article/alqard-alhassan-hezbollah-lebanon-israel-airstrikes-67220b894b55500b0be799a0be4245c3?ref=biztoc.com. Skipping save.
+2024-10-21 16:16:25,534 - INFO - 
+Processing article (88/1424): https://biztoc.com/x/43c8bd8565b82f30
+2024-10-21 16:16:25,786 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:28,811 - INFO - Completed in 2.13 seconds with 37 chunks received.
+2024-10-21 16:16:28,816 - INFO - No stock sentiments found in https://biztoc.com/x/43c8bd8565b82f30. Skipping save.
+2024-10-21 16:16:29,824 - INFO - 
+Processing article (89/1424): https://ce307fba-8faf-11ef-ba99-073d88c177fc/
+2024-10-21 16:16:30,051 - ERROR - Error scraping article https://ce307fba-8faf-11ef-ba99-073d88c177fc/: HTTPSConnectionPool(host='ce307fba-8faf-11ef-ba99-073d88c177fc', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1044aa310>: Failed to resolve 'ce307fba-8faf-11ef-ba99-073d88c177fc' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-10-21 16:16:30,051 - INFO - Skipping https://ce307fba-8faf-11ef-ba99-073d88c177fc/ due to empty content.
+2024-10-21 16:16:30,052 - INFO - 
+Processing article (90/1424): https://biztoc.com/x/d1463084f41d0ecd
+2024-10-21 16:16:30,345 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:33,994 - INFO - Completed in 2.01 seconds with 35 chunks received.
+2024-10-21 16:16:33,999 - INFO - No stock sentiments found in https://biztoc.com/x/d1463084f41d0ecd. Skipping save.
+2024-10-21 16:16:35,007 - INFO - Skipping already processed URL (91/1424): https://www.scmp.com/tech/big-tech/article/3283264/tech-war-chinese-official-praises-xiaomis-chip-design-smartphone-giant-keeps-mum?ref=biztoc.com
+2024-10-21 16:16:35,008 - INFO - 
+Processing article (92/1424): https://www.politico.com/news/2024/10/21/law-enforcement-missed-pivotal-moments-to-engage-trump-gunman-house-panel-finds-00184581?ref=biztoc.com
+2024-10-21 16:16:35,151 - ERROR - Error scraping article https://www.politico.com/news/2024/10/21/law-enforcement-missed-pivotal-moments-to-engage-trump-gunman-house-panel-finds-00184581?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.politico.com/news/2024/10/21/law-enforcement-missed-pivotal-moments-to-engage-trump-gunman-house-panel-finds-00184581?ref=biztoc.com
+2024-10-21 16:16:35,152 - INFO - Skipping https://www.politico.com/news/2024/10/21/law-enforcement-missed-pivotal-moments-to-engage-trump-gunman-house-panel-finds-00184581?ref=biztoc.com due to empty content.
+2024-10-21 16:16:35,152 - INFO - 
+Processing article (93/1424): https://www.youtube.com/watch?v=4lXBgL21w_s&ref=biztoc.com
+2024-10-21 16:16:35,927 - INFO - Skipping https://www.youtube.com/watch?v=4lXBgL21w_s&ref=biztoc.com due to empty content.
+2024-10-21 16:16:35,928 - INFO - 
+Processing article (94/1424): https://247wallst.com/companies-and-brands/2024/10/21/these-are-the-brands-that-best-exemplify-quiet-luxury/?ref=biztoc.com
+2024-10-21 16:16:36,058 - ERROR - Error scraping article https://247wallst.com/companies-and-brands/2024/10/21/these-are-the-brands-that-best-exemplify-quiet-luxury/?ref=biztoc.com: 403 Client Error: Forbidden for url: https://247wallst.com/companies-and-brands/2024/10/21/these-are-the-brands-that-best-exemplify-quiet-luxury/?ref=biztoc.com
+2024-10-21 16:16:36,058 - INFO - Skipping https://247wallst.com/companies-and-brands/2024/10/21/these-are-the-brands-that-best-exemplify-quiet-luxury/?ref=biztoc.com due to empty content.
+2024-10-21 16:16:36,059 - INFO - 
+Processing article (95/1424): https://biztoc.com/x/51916c524f027125
+2024-10-21 16:16:37,494 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:41,593 - INFO - Completed in 2.17 seconds with 38 chunks received.
+2024-10-21 16:16:41,601 - INFO - No stock sentiments found in https://biztoc.com/x/51916c524f027125. Skipping save.
+2024-10-21 16:16:42,610 - INFO - 
+Processing article (96/1424): https://finance.yahoo.com/quote/CL%3DF
+2024-10-21 16:16:43,398 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:45,807 - INFO - Completed in 1.55 seconds with 27 chunks received.
+2024-10-21 16:16:45,811 - INFO - No stock sentiments found in https://finance.yahoo.com/quote/CL%3DF. Skipping save.
+2024-10-21 16:16:46,821 - INFO - 
+Processing article (97/1424): https://biztoc.com/x/e2be183e24912b84
+2024-10-21 16:16:47,133 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:49,967 - INFO - Completed in 2.07 seconds with 36 chunks received.
+2024-10-21 16:16:49,972 - INFO - No stock sentiments found in https://biztoc.com/x/e2be183e24912b84. Skipping save.
+2024-10-21 16:16:50,982 - INFO - Skipping already processed URL (98/1424): https://biztoc.com/x/115f88b0e49ba9c6
+2024-10-21 16:16:50,983 - INFO - 
+Processing article (99/1424): https://biztoc.com/x/4d5f4a0047756f6e
+2024-10-21 16:16:51,270 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:54,203 - INFO - Completed in 2.18 seconds with 38 chunks received.
+2024-10-21 16:16:54,211 - INFO - No stock sentiments found in https://biztoc.com/x/4d5f4a0047756f6e. Skipping save.
+2024-10-21 16:16:55,216 - INFO - Skipping already processed URL (100/1424): https://biztoc.com/x/8e52773319c18ca7
+2024-10-21 16:16:55,217 - INFO - 
+Processing article (101/1424): https://biztoc.com/x/db48790e401f6ba7
+2024-10-21 16:16:55,442 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:16:59,461 - INFO - Completed in 2.06 seconds with 35 chunks received.
+2024-10-21 16:16:59,469 - INFO - No stock sentiments found in https://biztoc.com/x/db48790e401f6ba7. Skipping save.
+2024-10-21 16:17:17,384 - INFO - Loaded 380 processed URLs.
+2024-10-21 16:17:17,763 - INFO - Found 1424 unique links.
+2024-10-21 16:17:17,778 - INFO - Skipping already processed URL (1/1424): https://www.politico.com/news/2024/10/21/law-enforcement-missed-pivotal-moments-to-engage-trump-gunman-house-panel-finds-00184581?ref=biztoc.com
+2024-10-21 16:17:17,778 - INFO - Skipping already processed URL (2/1424): https://biztoc.com/x/755ed8fa156d433e
+2024-10-21 16:17:17,778 - INFO - Skipping already processed URL (3/1424): https://biztoc.com/x/d0ff7d86ff737a7b
+2024-10-21 16:17:17,778 - INFO - 
+Processing article (4/1424): https://biztoc.com/x/cf25443946a09e4b
+2024-10-21 16:17:17,953 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:24,880 - INFO - Completed in 2.20 seconds with 37 chunks received.
+2024-10-21 16:17:24,885 - INFO - No stock sentiments found in https://biztoc.com/x/cf25443946a09e4b. Skipping save.
+2024-10-21 16:17:25,893 - INFO - 
+Processing article (5/1424): https://4d908e60-6e8d-11ef-9cde-63dbc9313128/
+2024-10-21 16:17:26,111 - ERROR - Error scraping article https://4d908e60-6e8d-11ef-9cde-63dbc9313128/: HTTPSConnectionPool(host='4d908e60-6e8d-11ef-9cde-63dbc9313128', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x106cda5d0>: Failed to resolve '4d908e60-6e8d-11ef-9cde-63dbc9313128' ([Errno 8] nodename nor servname provided, or not known)"))
+2024-10-21 16:17:26,112 - INFO - Skipping https://4d908e60-6e8d-11ef-9cde-63dbc9313128/ due to empty content.
+2024-10-21 16:17:26,112 - INFO - 
+Processing article (6/1424): https://edition.cnn.com/business
+2024-10-21 16:17:26,322 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:28,535 - INFO - Completed in 1.23 seconds with 22 chunks received.
+2024-10-21 16:17:28,540 - INFO - No stock sentiments found in https://edition.cnn.com/business. Skipping save.
+2024-10-21 16:17:29,545 - INFO - 
+Processing article (7/1424): https://asia.nikkei.com/Spotlight/My-Personal-History/Private-capital-and-the-challenges-of-the-future-Henry-Kravis-21?ref=biztoc.com
+2024-10-21 16:17:30,767 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:36,284 - INFO - Completed in 4.07 seconds with 69 chunks received.
+2024-10-21 16:17:36,293 - INFO - Sentiment for https://asia.nikkei.com/Spotlight/My-Personal-History/Private-capital-and-the-challenges-of-the-future-Henry-Kravis-21?ref=biztoc.com saved.
+2024-10-21 16:17:37,297 - INFO - 
+Processing article (8/1424): https://biztoc.com/x/21c86ed115e0b5c3
+2024-10-21 16:17:37,596 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:40,562 - INFO - Completed in 2.12 seconds with 37 chunks received.
+2024-10-21 16:17:40,571 - INFO - No stock sentiments found in https://biztoc.com/x/21c86ed115e0b5c3. Skipping save.
+2024-10-21 16:17:41,579 - INFO - 
+Processing article (9/1424): https://www.investors.com/news/roku-stock-hits-80-plus-relative-strength-rating-benchmark/?ref=biztoc.com
+2024-10-21 16:17:41,829 - ERROR - Error scraping article https://www.investors.com/news/roku-stock-hits-80-plus-relative-strength-rating-benchmark/?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.investors.com/news/roku-stock-hits-80-plus-relative-strength-rating-benchmark/?ref=biztoc.com
+2024-10-21 16:17:41,831 - INFO - Skipping https://www.investors.com/news/roku-stock-hits-80-plus-relative-strength-rating-benchmark/?ref=biztoc.com due to empty content.
+2024-10-21 16:17:41,831 - INFO - 
+Processing article (10/1424): https://biztoc.com/x/92b5968ebc824742
+2024-10-21 16:17:42,053 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:45,198 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:17:45,207 - INFO - No stock sentiments found in https://biztoc.com/x/92b5968ebc824742. Skipping save.
+2024-10-21 16:17:46,218 - INFO - 
+Processing article (11/1424): https://www.newsweek.com/tropical-storm-force-winds-disrupt-wyoming-travel-1972493?ref=biztoc.com
+2024-10-21 16:17:46,379 - ERROR - Error scraping article https://www.newsweek.com/tropical-storm-force-winds-disrupt-wyoming-travel-1972493?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.newsweek.com/tropical-storm-force-winds-disrupt-wyoming-travel-1972493?ref=biztoc.com
+2024-10-21 16:17:46,380 - INFO - Skipping https://www.newsweek.com/tropical-storm-force-winds-disrupt-wyoming-travel-1972493?ref=biztoc.com due to empty content.
+2024-10-21 16:17:46,380 - INFO - 
+Processing article (12/1424): https://biztoc.com/x/99a6f7e15bec7e34
+2024-10-21 16:17:46,665 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:49,705 - INFO - Completed in 2.09 seconds with 36 chunks received.
+2024-10-21 16:17:49,713 - INFO - No stock sentiments found in https://biztoc.com/x/99a6f7e15bec7e34. Skipping save.
+2024-10-21 16:17:50,722 - INFO - 
+Processing article (13/1424): http://en.wikipedia.org/wiki/Line_of_Actual_Control
+2024-10-21 16:17:51,261 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:53,818 - INFO - Completed in 1.54 seconds with 27 chunks received.
+2024-10-21 16:17:53,826 - INFO - No stock sentiments found in http://en.wikipedia.org/wiki/Line_of_Actual_Control. Skipping save.
+2024-10-21 16:17:54,834 - INFO - 
+Processing article (14/1424): https://biztoc.com/x/a34149140a7efa8c
+2024-10-21 16:17:55,176 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:17:57,991 - INFO - Completed in 2.01 seconds with 35 chunks received.
+2024-10-21 16:17:57,994 - INFO - No stock sentiments found in https://biztoc.com/x/a34149140a7efa8c. Skipping save.
+2024-10-21 16:17:59,001 - INFO - 
+Processing article (15/1424): https://biztoc.com/x/bb20d4ac7a3c52a7
+2024-10-21 16:17:59,269 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:02,204 - INFO - Completed in 2.13 seconds with 36 chunks received.
+2024-10-21 16:18:02,210 - INFO - No stock sentiments found in https://biztoc.com/x/bb20d4ac7a3c52a7. Skipping save.
+2024-10-21 16:18:03,217 - INFO - 
+Processing article (16/1424): https://biztoc.com/x/480f91a778e230fa
+2024-10-21 16:18:03,511 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:06,850 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:18:06,855 - INFO - No stock sentiments found in https://biztoc.com/x/480f91a778e230fa. Skipping save.
+2024-10-21 16:18:07,863 - INFO - 
+Processing article (17/1424): https://biztoc.com/x/6f1ca85f6013325e
+2024-10-21 16:18:08,120 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:11,001 - INFO - Completed in 2.13 seconds with 37 chunks received.
+2024-10-21 16:18:11,008 - INFO - No stock sentiments found in https://biztoc.com/x/6f1ca85f6013325e. Skipping save.
+2024-10-21 16:18:12,017 - INFO - 
+Processing article (18/1424): https://biztoc.com/x/9dbcc7516c9753a0
+2024-10-21 16:18:12,252 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:15,099 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:18:15,105 - INFO - No stock sentiments found in https://biztoc.com/x/9dbcc7516c9753a0. Skipping save.
+2024-10-21 16:18:16,111 - INFO - 
+Processing article (19/1424): https://biztoc.com/x/8f83c8cecb364dc9
+2024-10-21 16:18:16,401 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:21,202 - INFO - Completed in 2.02 seconds with 35 chunks received.
+2024-10-21 16:18:21,209 - INFO - No stock sentiments found in https://biztoc.com/x/8f83c8cecb364dc9. Skipping save.
+2024-10-21 16:18:22,217 - INFO - 
+Processing article (20/1424): https://www.nakedcapitalism.com
+2024-10-21 16:18:22,718 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:25,804 - INFO - Completed in 1.31 seconds with 23 chunks received.
+2024-10-21 16:18:25,808 - INFO - No stock sentiments found in https://www.nakedcapitalism.com. Skipping save.
+2024-10-21 16:18:26,815 - INFO - Skipping already processed URL (21/1424): https://biztoc.com/x/ddd0f5481aeb4b79
+2024-10-21 16:18:26,816 - INFO - Skipping already processed URL (22/1424): https://biztoc.com/x/dd7dc8119f09dbb4
+2024-10-21 16:18:26,816 - INFO - 
+Processing article (23/1424): https://biztoc.com/x/0ce0f36eb178dd70
+2024-10-21 16:18:27,024 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:29,833 - INFO - Completed in 2.02 seconds with 35 chunks received.
+2024-10-21 16:18:29,837 - INFO - No stock sentiments found in https://biztoc.com/x/0ce0f36eb178dd70. Skipping save.
+2024-10-21 16:18:30,846 - INFO - Skipping already processed URL (24/1424): https://biztoc.com/x/9aec6e0041ff305e
+2024-10-21 16:18:30,848 - INFO - 
+Processing article (25/1424): https://biztoc.com/x/b46c2690ebe9ef1c
+2024-10-21 16:18:31,084 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:33,886 - INFO - Completed in 2.03 seconds with 35 chunks received.
+2024-10-21 16:18:33,891 - INFO - No stock sentiments found in https://biztoc.com/x/b46c2690ebe9ef1c. Skipping save.
+2024-10-21 16:18:34,898 - INFO - 
+Processing article (26/1424): https://www.ft.com/content/9e910222-0c02-42c8-b875-902bcaf30dc7?ref=biztoc.com
+2024-10-21 16:18:35,580 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:41,271 - INFO - Completed in 4.68 seconds with 79 chunks received.
+2024-10-21 16:18:41,279 - INFO - Sentiment for https://www.ft.com/content/9e910222-0c02-42c8-b875-902bcaf30dc7?ref=biztoc.com saved.
+2024-10-21 16:18:42,296 - INFO - 
+Processing article (27/1424): https://www.barrons.com/advisor/articles/trump-harris-election-avoiding-investing-mistakes-e657441e?ref=biztoc.com
+2024-10-21 16:18:42,442 - ERROR - Error scraping article https://www.barrons.com/advisor/articles/trump-harris-election-avoiding-investing-mistakes-e657441e?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.barrons.com/advisor/articles/trump-harris-election-avoiding-investing-mistakes-e657441e?ref=biztoc.com
+2024-10-21 16:18:42,442 - INFO - Skipping https://www.barrons.com/advisor/articles/trump-harris-election-avoiding-investing-mistakes-e657441e?ref=biztoc.com due to empty content.
+2024-10-21 16:18:42,443 - INFO - 
+Processing article (28/1424): https://biztoc.com/x/4ac60acafe421892
+2024-10-21 16:18:42,646 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:45,883 - INFO - Completed in 1.97 seconds with 34 chunks received.
+2024-10-21 16:18:45,888 - INFO - No stock sentiments found in https://biztoc.com/x/4ac60acafe421892. Skipping save.
+2024-10-21 16:18:46,892 - INFO - 
+Processing article (29/1424): https://www.nytimes.com/2024/10/21/business/media/trump-mcdonalds-media-coverage.html?ref=biztoc.com
+2024-10-21 16:18:47,039 - ERROR - Error scraping article https://www.nytimes.com/2024/10/21/business/media/trump-mcdonalds-media-coverage.html?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.nytimes.com/2024/10/21/business/media/trump-mcdonalds-media-coverage.html?ref=biztoc.com
+2024-10-21 16:18:47,040 - INFO - Skipping https://www.nytimes.com/2024/10/21/business/media/trump-mcdonalds-media-coverage.html?ref=biztoc.com due to empty content.
+2024-10-21 16:18:47,041 - INFO - Skipping already processed URL (30/1424): https://finance.yahoo.com/quote/%5EW5000
+2024-10-21 16:18:47,041 - INFO - 
+Processing article (31/1424): https://ritholtz.com/2024/10/sunday-reads-391/?ref=biztoc.com
+2024-10-21 16:18:47,171 - ERROR - Error scraping article https://ritholtz.com/2024/10/sunday-reads-391/?ref=biztoc.com: 403 Client Error: Forbidden for url: https://ritholtz.com/2024/10/sunday-reads-391/?ref=biztoc.com
+2024-10-21 16:18:47,172 - INFO - Skipping https://ritholtz.com/2024/10/sunday-reads-391/?ref=biztoc.com due to empty content.
+2024-10-21 16:18:47,173 - INFO - 
+Processing article (32/1424): https://biztoc.com/x/2e655b9e76bc142c
+2024-10-21 16:18:47,386 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:51,288 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:18:51,293 - INFO - No stock sentiments found in https://biztoc.com/x/2e655b9e76bc142c. Skipping save.
+2024-10-21 16:18:52,299 - INFO - Skipping already processed URL (33/1424): https://biztoc.com/x/432d1354770db7c9
+2024-10-21 16:18:52,301 - INFO - 
+Processing article (34/1424): https://biztoc.com/x/28426e3b2dc064fd
+2024-10-21 16:18:52,542 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:55,578 - INFO - Completed in 2.09 seconds with 36 chunks received.
+2024-10-21 16:18:55,582 - INFO - No stock sentiments found in https://biztoc.com/x/28426e3b2dc064fd. Skipping save.
+2024-10-21 16:18:56,591 - INFO - 
+Processing article (35/1424): https://biztoc.com/x/e1f765e6e9494294
+2024-10-21 16:18:56,810 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:18:59,744 - INFO - Completed in 2.15 seconds with 37 chunks received.
+2024-10-21 16:18:59,749 - INFO - No stock sentiments found in https://biztoc.com/x/e1f765e6e9494294. Skipping save.
+2024-10-21 16:19:00,757 - INFO - 
+Processing article (36/1424): https://www.bloomberg.com/news/articles/2024-10-21/cfa-institute-researches-ai-s-impact-on-testing-and-curriculum?ref=biztoc.com
+2024-10-21 16:19:00,992 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:05,317 - INFO - Completed in 3.35 seconds with 57 chunks received.
+2024-10-21 16:19:05,323 - INFO - No stock sentiments found in https://www.bloomberg.com/news/articles/2024-10-21/cfa-institute-researches-ai-s-impact-on-testing-and-curriculum?ref=biztoc.com. Skipping save.
+2024-10-21 16:19:06,331 - INFO - Skipping already processed URL (37/1424): https://www.benzinga.com/general/biotech/24/10/41434586/fda-presses-clinical-hold-button-for-biontechs-partner-late-stage-trial-of-investigational-lung-c?ref=biztoc.com
+2024-10-21 16:19:06,331 - INFO - Skipping already processed URL (38/1424): https://biztoc.com/x/fa9b452906bf27b8
+2024-10-21 16:19:06,332 - INFO - Skipping already processed URL (39/1424): https://www.theregister.com/
+2024-10-21 16:19:06,332 - INFO - 
+Processing article (40/1424): https://biztoc.com/x/56e2b15feb65fcd0
+2024-10-21 16:19:06,586 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:09,432 - INFO - Completed in 2.02 seconds with 35 chunks received.
+2024-10-21 16:19:09,439 - INFO - No stock sentiments found in https://biztoc.com/x/56e2b15feb65fcd0. Skipping save.
+2024-10-21 16:19:10,448 - INFO - 
+Processing article (41/1424): https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUFqVjgyRVEwV0x4N29wUWhiUjRMMGJTeXhaSzNMLVBraWhsRER2V2t3UlFhVjJBUE50Qm5aX3IwYkprNFV6RmlLS3dkWFREQWVPaGlHMjdxOFlPa1Z3UEJUSXFCdHp1NjNPUGluTmdOaWNYbnY0aFhMWWdIRUwzd3pGRjk2Y2dkSUd6OVppX1hPM1E?oc=5&ref=biztoc.com
+2024-10-21 16:19:11,026 - INFO - Skipping https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUFqVjgyRVEwV0x4N29wUWhiUjRMMGJTeXhaSzNMLVBraWhsRER2V2t3UlFhVjJBUE50Qm5aX3IwYkprNFV6RmlLS3dkWFREQWVPaGlHMjdxOFlPa1Z3UEJUSXFCdHp1NjNPUGluTmdOaWNYbnY0aFhMWWdIRUwzd3pGRjk2Y2dkSUd6OVppX1hPM1E?oc=5&ref=biztoc.com due to empty content.
+2024-10-21 16:19:11,027 - INFO - 
+Processing article (42/1424): https://biztoc.com/x/76ee79b4df8bcc31
+2024-10-21 16:19:11,289 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:14,631 - INFO - Completed in 1.99 seconds with 34 chunks received.
+2024-10-21 16:19:14,639 - INFO - No stock sentiments found in https://biztoc.com/x/76ee79b4df8bcc31. Skipping save.
+2024-10-21 16:19:15,649 - INFO - Skipping already processed URL (43/1424): https://www.barrons.com
+2024-10-21 16:19:15,650 - INFO - 
+Processing article (44/1424): https://www.wsj.com/articles/disney-names-james-gorman-as-next-chairman-4c0c74e7?ref=biztoc.com
+2024-10-21 16:19:15,856 - ERROR - Error scraping article https://www.wsj.com/articles/disney-names-james-gorman-as-next-chairman-4c0c74e7?ref=biztoc.com: 403 Client Error: Forbidden for url: https://www.wsj.com/articles/disney-names-james-gorman-as-next-chairman-4c0c74e7?ref=biztoc.com
+2024-10-21 16:19:15,857 - INFO - Skipping https://www.wsj.com/articles/disney-names-james-gorman-as-next-chairman-4c0c74e7?ref=biztoc.com due to empty content.
+2024-10-21 16:19:15,857 - INFO - 
+Processing article (45/1424): https://biztoc.com/x/a8fc6bc420cdf923
+2024-10-21 16:19:16,277 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:19,447 - INFO - Completed in 1.90 seconds with 33 chunks received.
+2024-10-21 16:19:19,452 - INFO - No stock sentiments found in https://biztoc.com/x/a8fc6bc420cdf923. Skipping save.
+2024-10-21 16:19:20,458 - INFO - 
+Processing article (46/1424): https://www.youtube.com/watch?v=V19Jgp2zpD8&ref=biztoc.com
+2024-10-21 16:19:21,173 - INFO - Skipping https://www.youtube.com/watch?v=V19Jgp2zpD8&ref=biztoc.com due to empty content.
+2024-10-21 16:19:21,176 - INFO - Skipping already processed URL (47/1424): https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com
+2024-10-21 16:19:21,176 - INFO - 
+Processing article (48/1424): https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDdyTzlmc1Zndnk4R2E2QXV4MWpOeXItTUFzbHduaFppTFQyQUUxalpVVENLMk94WG1FalRfWDJmOHZrbUs0UjBaQVlWN3Q2MUZPcE9nMDF6NHFiZE1QcGVWMGVWVGJ0ajF5OXhaQzlkQVlDSnRrMGZ2bkJoWC0yb3NBMGVYVFF0UnBPMQ?ceid=US%3Aen&gl=US&hl=en-US&oc=5&ref=biztoc.com
+2024-10-21 16:19:21,549 - INFO - Skipping https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDdyTzlmc1Zndnk4R2E2QXV4MWpOeXItTUFzbHduaFppTFQyQUUxalpVVENLMk94WG1FalRfWDJmOHZrbUs0UjBaQVlWN3Q2MUZPcE9nMDF6NHFiZE1QcGVWMGVWVGJ0ajF5OXhaQzlkQVlDSnRrMGZ2bkJoWC0yb3NBMGVYVFF0UnBPMQ?ceid=US%3Aen&gl=US&hl=en-US&oc=5&ref=biztoc.com due to empty content.
+2024-10-21 16:19:21,550 - INFO - 
+Processing article (49/1424): https://biztoc.com/x/060b837ca634d563
+2024-10-21 16:19:21,828 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:25,136 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:19:25,140 - INFO - No stock sentiments found in https://biztoc.com/x/060b837ca634d563. Skipping save.
+2024-10-21 16:19:26,156 - INFO - 
+Processing article (50/1424): https://www.institutionalinvestor.com/article/2dwizpuvf4qe7sgnk9e68/hedge-funds/top-performing-averill-partners-closes-to-new-investors?ref=biztoc.com
+2024-10-21 16:19:27,350 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:32,213 - INFO - Completed in 3.83 seconds with 65 chunks received.
+2024-10-21 16:19:32,219 - INFO - No stock sentiments found in https://www.institutionalinvestor.com/article/2dwizpuvf4qe7sgnk9e68/hedge-funds/top-performing-averill-partners-closes-to-new-investors?ref=biztoc.com. Skipping save.
+2024-10-21 16:19:33,230 - INFO - Skipping already processed URL (51/1424): https://twitter.com/search?q=%23pilotstwtselfieday
+2024-10-21 16:19:33,231 - INFO - Skipping already processed URL (52/1424): https://www.seattletimes.com/business/what-is-the-hezbollah-linked-financial-institution-israel-is-targeting-in-lebanon/?ref=biztoc.com
+2024-10-21 16:19:33,232 - INFO - 
+Processing article (53/1424): https://abnormalreturns.com/2024/10/21/adviser-links-time-and-space/?ref=biztoc.com
+2024-10-21 16:19:33,941 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:37,408 - INFO - Completed in 2.64 seconds with 45 chunks received.
+2024-10-21 16:19:37,410 - INFO - No stock sentiments found in https://abnormalreturns.com/2024/10/21/adviser-links-time-and-space/?ref=biztoc.com. Skipping save.
+2024-10-21 16:19:38,417 - INFO - Skipping already processed URL (54/1424): https://biztoc.com/x/db48790e401f6ba7
+2024-10-21 16:19:38,417 - INFO - Skipping already processed URL (55/1424): https://www.zerohedge.com/commodities/aramco-ceo-says-china-oil-demand-bright-spot?ref=biztoc.com
+2024-10-21 16:19:38,417 - INFO - 
+Processing article (56/1424): https://biztoc.com/x/f2b8c07d806d31c6
+2024-10-21 16:19:38,651 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:41,611 - INFO - Completed in 2.14 seconds with 37 chunks received.
+2024-10-21 16:19:41,629 - INFO - No stock sentiments found in https://biztoc.com/x/f2b8c07d806d31c6. Skipping save.
+2024-10-21 16:19:42,637 - INFO - 
+Processing article (57/1424): https://observer.com/2024/10/uber-ceo-consider-expedia-acquisition/?ref=biztoc.com
+2024-10-21 16:19:43,219 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:48,984 - INFO - Completed in 3.71 seconds with 63 chunks received.
+2024-10-21 16:19:48,990 - INFO - Sentiment for https://observer.com/2024/10/uber-ceo-consider-expedia-acquisition/?ref=biztoc.com saved.
+2024-10-21 16:19:49,996 - INFO - Skipping already processed URL (58/1424): https://biztoc.com/x/604d2eaa87c30562
+2024-10-21 16:19:49,997 - INFO - 
+Processing article (59/1424): https://biztoc.com/x/98494c8bc275ee3d
+2024-10-21 16:19:50,282 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:53,161 - INFO - Completed in 2.08 seconds with 36 chunks received.
+2024-10-21 16:19:53,168 - INFO - No stock sentiments found in https://biztoc.com/x/98494c8bc275ee3d. Skipping save.
+2024-10-21 16:19:54,178 - INFO - 
+Processing article (60/1424): https://www.marketplace.org/2024/10/21/election-campaigns-are-spending-big-to-get-out-the-expat-vote/?ref=biztoc.com
+2024-10-21 16:19:54,984 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:19:59,456 - INFO - Completed in 3.31 seconds with 56 chunks received.
+2024-10-21 16:19:59,462 - INFO - No stock sentiments found in https://www.marketplace.org/2024/10/21/election-campaigns-are-spending-big-to-get-out-the-expat-vote/?ref=biztoc.com. Skipping save.
+2024-10-21 16:20:00,470 - INFO - 
+Processing article (61/1424): https://finance.yahoo.com/quote/%5ESTOXX50E
+2024-10-21 16:20:01,317 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:20:04,914 - INFO - Completed in 1.72 seconds with 30 chunks received.
+2024-10-21 16:20:04,918 - INFO - No stock sentiments found in https://finance.yahoo.com/quote/%5ESTOXX50E. Skipping save.
+2024-10-21 16:20:05,928 - INFO - 
+Processing article (62/1424): https://biztoc.com/x/4ee03a10fbcd9aed
+2024-10-21 16:20:06,163 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:20:08,822 - INFO - Completed in 1.90 seconds with 33 chunks received.
+2024-10-21 16:20:08,839 - INFO - No stock sentiments found in https://biztoc.com/x/4ee03a10fbcd9aed. Skipping save.
+2024-10-21 16:20:09,848 - INFO - 
+Processing article (63/1424): https://biztoc.com/x/2f3d5cb7d1c59afe
+2024-10-21 16:20:10,265 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:20:13,086 - INFO - Completed in 2.02 seconds with 35 chunks received.
+2024-10-21 16:20:13,090 - INFO - No stock sentiments found in https://biztoc.com/x/2f3d5cb7d1c59afe. Skipping save.
+2024-10-21 16:20:14,101 - INFO - 
+Processing article (64/1424): https://mises.org
+2024-10-21 16:20:14,364 - INFO - Sending content to LLM for sentiment analysis.
+2024-10-21 16:20:16,299 - INFO - Completed in 1.12 seconds with 20 chunks received.
+2024-10-21 16:20:16,304 - INFO - No stock sentiments found in https://mises.org. Skipping save.

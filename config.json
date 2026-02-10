@@ -1,0 +1,29 @@
+{
+  "API_URL": "http://localhost:11434/api/chat",
+  "MODEL": "qwen2.5:14b",
+  "OUTPUT_DIR": "outputs",
+  "OUTPUT_FILE_TEMPLATE": "market_sentiment_results_{}.jsonl",
+  "PROCESSED_URLS_FILE": "processed_urls.txt",
+  "RAW_RESPONSE_FILE": "llm_raw_responses.log",
+  "LOG_FILE": "script.log",
+  "MAX_RETRIES": 3,
+  "RETRY_DELAY": 5,
+  "REQUEST_DELAY": 1,
+  "VALID_TICKERS_FILE": "valid_tickers.txt",
+  "USE_VALID_TICKERS": false,
+  "HEADERS": {
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+  },
+  "USER_AGENTS": [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3",
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15",
+      "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36",
+      "Mozilla/5.0 (iPhone; CPU iPhone OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15A372 Safari/604.1",
+      "Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36"
+  ],
+  "USE_PROXIES": false,
+  "PROXIES": {
+      "http": "http://your_proxy:port",
+      "https": "https://your_proxy:port"
+  }
+}

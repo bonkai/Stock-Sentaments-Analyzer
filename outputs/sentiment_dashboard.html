@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Market Sentiment Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Add Chart.js for visualizations -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.0/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"></script>
+</head>
+
+<body>
+    <div class="dashboard">
+        <header>
+            <h1>Market Sentiment Dashboard</h1>
+            <div id="lastUpdate"></div>
+        </header>
+
+        <div class="search-container">
+            <input type="text" id="tickerSearch" placeholder="Search tickers...">
+            <div id="searchStats"></div>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="sentimentChart"></canvas>
+        </div>
+
+        <div class="stats-container">
+            <div class="stats-card">
+                <h2>Most Positive Sentiment</h2>
+                <div id="positiveStats" class="stats-list"></div>
+            </div>
+
+            <div class="stats-card">
+                <h2>Most Negative Sentiment</h2>
+                <div id="negativeStats" class="stats-list"></div>
+            </div>
+
+            <div class="stats-card">
+                <h2>Most Discussed</h2>
+                <div id="discussedStats" class="stats-list"></div>
+            </div>
+
+            <div class="stats-card">
+                <h2>Trending Up</h2>
+                <div id="trendingStats" class="stats-list"></div>
+            </div>
+        </div>
+    </div>
+    <!-- Load the data first -->
+    <script src="sentiment_data.js"></script>
+    <!-- Then load our application code -->
+    <script src="script.js"></script>
+</body>
+
+</html>

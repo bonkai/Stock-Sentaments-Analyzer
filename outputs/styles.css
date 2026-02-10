@@ -1,0 +1,326 @@
+/* styles.css */
+:root {
+  --primary-gradient: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+  --card-gradient: linear-gradient(to bottom right, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.95));
+  --positive-color: #22c55e;
+  --negative-color: #ef4444;
+  --neutral-color: #eab308;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  line-height: 1.6;
+  background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+  min-height: 100vh;
+  color: #1f2937;
+}
+
+.dashboard {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  margin-bottom: 30px;
+  padding: 30px;
+  background: var(--primary-gradient);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(99, 102, 241, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(45deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0) 100%);
+  pointer-events: none;
+}
+
+header h1 {
+  color: white;
+  margin-bottom: 10px;
+  font-size: 2.2em;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#lastUpdate {
+  color: rgba(255,255,255,0.9);
+  font-size: 0.95em;
+  font-weight: 500;
+}
+
+.search-container {
+  margin-bottom: 30px;
+  padding: 20px;
+  background: var(--card-gradient);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05),
+              0 10px 15px rgba(0, 0, 0, 0.03);
+  backdrop-filter: blur(10px);
+}
+
+#tickerSearch {
+  width: 100%;
+  padding: 12px 20px;
+  border: 2px solid #e5e7eb;
+  border-radius: 8px;
+  font-size: 1em;
+  transition: all 0.3s ease;
+  background: white;
+  color: #1f2937;
+}
+
+#tickerSearch:focus {
+  outline: none;
+  border-color: #6366f1;
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.2);
+}
+
+.chart-container {
+  margin-bottom: 30px;
+  padding: 25px;
+  background: var(--card-gradient);
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05),
+              0 10px 15px rgba(0, 0, 0, 0.03);
+  height: 400px;
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.stats-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 25px;
+  margin-bottom: 30px;
+}
+
+.stats-card {
+  background: var(--card-gradient);
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05),
+              0 10px 15px rgba(0, 0, 0, 0.03);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px);
+}
+
+.stats-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.05),
+              0 12px 18px rgba(0, 0, 0, 0.03);
+}
+
+.stats-card h2 {
+  color: #1f2937;
+  font-size: 1.3em;
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #e5e7eb;
+  position: relative;
+  font-weight: 600;
+}
+
+.stats-card h2::after {
+  content: '';
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 50px;
+  height: 2px;
+  background: var(--primary-gradient);
+}
+
+.stats-list {
+  font-size: 0.95em;
+}
+
+/* Previous CSS remains the same until .stats-list */
+
+.stats-list div {
+  padding: 16px;
+  border-bottom: 1px solid rgba(229, 231, 235, 0.5);
+  transition: all 0.2s ease;
+  border-radius: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.stats-list div:hover {
+  background-color: rgba(243, 244, 246, 0.7);
+}
+
+.ticker {
+  font-weight: 600;
+  color: #1f2937;
+  font-size: 1.1em;
+  padding: 4px 8px;
+  background: rgba(99, 102, 241, 0.1);
+  border-radius: 4px;
+  margin-right: 8px;
+}
+
+.details {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* Previous CSS remains the same until sentiment styling */
+
+.sentiment-number {
+  font-weight: 700;
+  font-size: 1.2em;
+  padding: 6px 12px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 80px;
+  position: relative;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+/* Positive sentiment styling (>61) */
+.sentiment-positive {
+  background: rgba(34, 197, 94, 0.15);
+  color: #15803d;
+  border: 2px solid rgba(34, 197, 94, 0.3);
+}
+
+.sentiment-positive::before {
+  content: '↑';
+  margin-right: 4px;
+  font-weight: bold;
+}
+
+/* Neutral sentiment styling (39-61) */
+.sentiment-neutral {
+  background: rgba(234, 179, 8, 0.15);
+  color: #854d0e;
+  border: 2px solid rgba(234, 179, 8, 0.3);
+}
+
+.sentiment-neutral::before {
+  content: '−';
+  margin-right: 4px;
+  font-weight: bold;
+}
+
+/* Negative sentiment styling (<39) */
+.sentiment-negative {
+  background: rgba(239, 68, 68, 0.15);
+  color: #b91c1c;
+  border: 2px solid rgba(239, 68, 68, 0.3);
+}
+
+.sentiment-negative::before {
+  content: '↓';
+  margin-right: 4px;
+  font-weight: bold;
+}
+
+/* Rest of the CSS remains the same */
+
+/* Enhanced chart tooltips */
+.chart-tooltip {
+  background: rgba(255, 255, 255, 0.98) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  padding: 8px 12px !important;
+  border: 1px solid rgba(229, 231, 235, 0.8) !important;
+}
+
+/* Sentiment-specific colors */
+.positive {
+  color: var(--positive-color);
+  border-left-color: var(--positive-color);
+}
+
+.negative {
+  color: var(--negative-color);
+  border-left-color: var(--negative-color);
+}
+
+.neutral {
+  color: var(--neutral-color);
+  border-left-color: var(--neutral-color);
+}
+
+/* Loading state */
+.loading {
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+/* Animations */
+@keyframes slideIn {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.stats-card {
+  animation: slideIn 0.3s ease-out forwards;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .stats-container {
+      grid-template-columns: 1fr;
+  }
+  
+  .dashboard {
+      padding: 15px;
+  }
+  
+  header {
+      padding: 20px;
+  }
+  
+  header h1 {
+      font-size: 1.8em;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c7d2fe;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #818cf8;
+}

@@ -1,0 +1,72 @@
+{"url": "https://edition.cnn.com/2024/10/21/business/video/european-carmakers-price-battle-spc?ref=biztoc.com", "sentiments": {"VW.DE": 45, "PSA.PA": 40}, "timestamp": 1729542221}
+{"url": "https://www.theglobeandmail.com/business/international-business/article-mcdonalds-agreed-to-trump-event-but-insists-it-isnt-endorsing-a/?ref=biztoc.com", "sentiments": {"MCD": 40}, "timestamp": 1729542235}
+{"url": "https://www.pymnts.com/news/banking/2024/santander-brings-digital-banking-platform-openbank-to-the-us/?ref=biztoc.com", "sentiments": {"SAN": 75, "OPENBANK": 80}, "timestamp": 1729542244}
+{"url": "https://finance.yahoo.com/news/think-too-buy-nvidia-heres-182908366.html?ref=biztoc.com", "sentiments": {"NVDA": 75}, "timestamp": 1729542254}
+{"url": "https://apnews.com/article/gofundme-meta-gen-z-donors-de9db75c46fe4bbf369f61a18528b1df?ref=biztoc.com", "sentiments": {"META": 60}, "timestamp": 1729542292}
+{"url": "https://www.siliconrepublic.com/enterprise/internet-archive-cyberattack-zendesk-api?ref=biztoc.com", "sentiments": {"ZEN": 40, "IA": 35}, "timestamp": 1729542331}
+{"url": "https://finance.yahoo.com/news/why-spirit-airlines-stock-soaring-173736394.html?ref=biztoc.com", "sentiments": {"SAVE": 85, "S_SPIR": 80}, "timestamp": 1729542339}
+{"url": "https://www.marketplace.org/2024/10/18/big-tech-goes-nuclear/?ref=biztoc.com", "sentiments": {"AAPL": 75, "GOOGL": 65, "MSFT": 60}, "timestamp": 1729542378}
+{"url": "https://www.zerohedge.com/precious-metals/silver-squeeze-has-officially-begun?ref=biztoc.com", "sentiments": {"SLV": 75, "GFI": 60}, "timestamp": 1729542429}
+{"url": "https://www.morningbrew.com/daily/stories/2024/10/20/why-wordpress-s-ceo-is-spooking-the-internet?utm_source=&ref=biztoc.com", "sentiments": {"WP Engine": 65, "Automattic Inc.": 70}, "timestamp": 1729542478}
+{"url": "https://www.euronews.com/next/2024/10/21/ai-for-business-ibm-unveils-new-open-source-ai-granite-30-models-for-business?ref=biztoc.com", "sentiments": {"IBM": 85}, "timestamp": 1729542494}
+{"url": "https://www.benzinga.com/general/biotech/24/10/41434127/gilead-sciencesmercks-investigational-once-weekly-hiv-combo-therapy-shows-sustained-virus-suppres?ref=biztoc.com", "sentiments": {"GILD": 65, "MRK": 60}, "timestamp": 1729542762}
+{"url": "https://www.latimes.com/business/story/2024-10-18/tesla-full-self-driving-probe?ref=biztoc.com", "sentiments": {"TSLA": 35}, "timestamp": 1729542768}
+{"url": "https://www.latimes.com/entertainment-arts/business/story/2024-10-21/elon-musk-tesla-cybercab-warner-bros-discovery-blade-runner-2049-lawsuit?ref=biztoc.com", "sentiments": {"TSLA": 65, "WBD": 70}, "timestamp": 1729542819}
+{"url": "https://abcnews.go.com/Business/wireStory/slack-researcher-discusses-fear-loathing-excitement-surrounding-ai-114994799?ref=biztoc.com", "sentiments": {"WORKDAY": 60, "SLACK": 55}, "timestamp": 1729542913}
+{"url": "https://www.scmp.com/tech/big-tech/article/3283266/alibaba-start-competition-hong-kong-officials-tout-city-ideal-launch-pad?ref=biztoc.com", "sentiments": {"BABA": 70}, "timestamp": 1729542941}
+{"url": "https://www.theguardian.com/business/2024/oct/21/wh-smith-to-stock-vinyl-albums-for-first-time-since-1990s?ref=biztoc.com", "sentiments": {"WHSM": 65}, "timestamp": 1729542972}
+{"url": "https://go.theregister.com/feed/www.theregister.com/2024/10/21/sifive_premier_p550_board/?ref=biztoc.com", "sentiments": {"SIFIVE": 70}, "timestamp": 1729542995}
+{"url": "https://finance.yahoo.com/news/nvidia-stock-rises-to-intraday-record-high-as-wall-street-stays-bullish-ahead-of-earnings-190404863.html?ref=biztoc.com", "sentiments": {"NVDA": 85}, "timestamp": 1729543018}
+{"url": "https://apnews.com/article/mcdonalds-trump-campaign-harris-fries-56a5773528e212df058f85ec0f264578?ref=biztoc.com", "sentiments": {"MCD": 60}, "timestamp": 1729543030}
+{"url": "https://www.siliconvalley.com/2024/10/21/how-disneylands-vip-tour-compares-to-lightning-lane-premier-pass/?ref=biztoc.com", "sentiments": {"DIS": 75}, "timestamp": 1729543037}
+{"url": "https://www.cnbc.com/2024/10/21/nba-wnba-and-nike-renew-uniform-partnership.html?ref=biztoc.com", "sentiments": {"NKE": 75}, "timestamp": 1729543062}
+{"url": "https://www.investing.com/news/economy/markets-overreacting-to-a-onemonth-jobs-surge-50bps-cut-still-alive-stanchart-3673169?ref=biztoc.com", "sentiments": {"STAN": 60}, "timestamp": 1729543086}
+{"url": "https://www.forbes.com/sites/tonybradley/2024/10/21/aws-and-the-nfl-join-forces-to-empower-future-cybersecurity-leaders/?ref=biztoc.com", "sentiments": {"AMZN": 85, "NFL": 60}, "timestamp": 1729543139}
+{"url": "https://www.espn.com/nfl/story/_/id/41909448/browns-deshaun-watson-season-ending-achilles-injury", "sentiments": {"BROWNS": 30, "DESHAUN_WATSON": 20}, "timestamp": 1729543184}
+{"url": "https://seekingalpha.com/article/4727948-asml-is-approaching-my-buy-price-here-is-when-ill-start-buying?ref=biztoc.com", "sentiments": {"ASML": 75}, "timestamp": 1729543267}
+{"url": "https://www.marketplace.org/2024/10/18/mobile-homes-housing-stock-manufactured-homes-housing-affordable/?ref=biztoc.com", "sentiments": {"MHVT": 75, "RHI": 65}, "timestamp": 1729543340}
+{"url": "https://www.latimes.com/entertainment-arts/business/story/2024-10-18/universal-epic-universe-theme-park-orlando-florida?ref=biztoc.com", "sentiments": {"PEP": 75, "CMCSA": 60}, "timestamp": 1729543351}
+{"url": "https://www.thetradenews.com/fireside-friday-with-finbourne-technologys-tom-mchugh/?ref=biztoc.com", "sentiments": {"FINU": 75, "FBTN": 60}, "timestamp": 1729543364}
+{"url": "https://wolfstreet.com/2024/10/15/the-most-splendid-housing-bubbles-in-america-sept-update-prices-drop-in-26-of-28-big-metros-even-san-diego-los-angeles/?ref=biztoc.com", "sentiments": {"SAN-DIEGO": 30, "LOS-ANGELES": 35}, "timestamp": 1729543414}
+{"url": "https://www.msnbc.com/opinion/msnbc-opinion/elon-musk-block-x-blue-sky-rcna176130?ref=biztoc.com", "sentiments": {"TSLA": 50, "TWTR": 40}, "timestamp": 1729543433}
+{"url": "https://finance.yahoo.com/quote/GRI", "sentiments": {"GRI": 75}, "timestamp": 1729543483}
+{"url": "https://observer.com/2024/10/amd-and-intel-form-a-rare-chip-coalition-to-win-the-a-i-arms-race/?ref=biztoc.com", "sentiments": {"AMD": 75, "INTC": 60}, "timestamp": 1729543505}
+{"url": "https://www.zerohedge.com/commodities/aramco-ceo-says-china-oil-demand-bright-spot?ref=biztoc.com", "sentiments": {"ARAMCO": 75, "AAPL": 0}, "timestamp": 1729543521}
+{"url": "https://www.reddit.com/r/wallstreetbets/comments/1g8z5a2/500k_on_goog/?ref=biztoc.com", "sentiments": {"GOOG": 60}, "timestamp": 1729544433}
+{"url": "https://www.benzinga.com/general/gaming/24/10/41435803/activisions-new-ai-strategy-aims-to-ban-call-of-duty-cheaters-within-one-hour-of-their-first-match?ref=biztoc.com", "sentiments": {"ATVI": 75}, "timestamp": 1729544442}
+{"url": "https://www.chicagotribune.com/2024/10/19/mail-carriers-usps-tentative-contract/?ref=biztoc.com", "sentiments": {"USPS": 50}, "timestamp": 1729544486}
+{"url": "https://www.theguardian.com/technology/2024/oct/21/microsoft-launches-ai-employees-that-can-perform-some-business-tasks?ref=biztoc.com", "sentiments": {"MSFT": 75}, "timestamp": 1729544516}
+{"url": "https://www.barchart.com/story/news/29141001/crude-posts-moderate-gains-on-chinese-stimulus?ref=biztoc.com", "sentiments": {"CPC": 65, "CNX": 70}, "timestamp": 1729544532}
+{"url": "https://apnews.com/article/georgia-chemical-fire-lawsuit-biolab-dc7c0fc0f9359071ce21853a9a533de0?ref=biztoc.com", "sentiments": {"BIO-LAB": 40, "Georgia Chemical": 40}, "timestamp": 1729544544}
+{"url": "https://observer.com/2024/10/uber-ceo-consider-expedia-acquisition/?ref=biztoc.com", "sentiments": {"UBER": 65, "EXPE": 70}, "timestamp": 1729544550}
+{"url": "https://www.nbcnews.com/business/business-news/tiktok-parent-company-dismisses-intern-interfered-ai-technology-rcna176401?ref=biztoc.com", "sentiments": {"TTD": 45, "ByteDance": 48}, "timestamp": 1729544561}
+{"url": "https://tech.co/news/baidu-ceo-says-ai-bubble-will-burst?ref=biztoc.com", "sentiments": {"BIDU": 30}, "timestamp": 1729544573}
+{"url": "https://www.theguardian.com/business/2024/oct/21/20-foods-recalled-peanut-fears-uk-watchdog-domino-bbq-meat?ref=biztoc.com", "sentiments": {"DOM": 30, "BBQMEAT": 35}, "timestamp": 1729544580}
+{"url": "https://www.nbcnews.com/tech/tech-news/elon-musks-bid-re-elect-trump-petition-draws-scrutiny-rcna176363?ref=biztoc.com", "sentiments": {"TSLA": 40, "TWTR": 35}, "timestamp": 1729544594}
+{"url": "https://go.theregister.com/feed/www.theregister.com/2024/10/21/odowd_tesla_trump/?ref=biztoc.com", "sentiments": {"TSLA": 65, "TRUMP": 30}, "timestamp": 1729544618}
+{"url": "https://www.bloomberg.com/news/articles/2024-10-21/musk-accused-of-blade-runner-copyright-infringement-on-robotaxi?ref=biztoc.com", "sentiments": {"TSLA": 30}, "timestamp": 1729544640}
+{"url": "https://www.businessinsider.com/mcdonalds-is-latest-election-battleground-for-trump-and-harris-2024-10?ref=biztoc.com", "sentiments": {"MCD": 50}, "timestamp": 1729544672}
+{"url": "https://asia.nikkei.com/Spotlight/My-Personal-History/Private-capital-and-the-challenges-of-the-future-Henry-Kravis-21?ref=biztoc.com", "sentiments": {"KSL": 50}, "timestamp": 1729544734}
+{"url": "https://www.cbc.ca/news/business/listeria-frozen-waffles-1.7357978?ref=biztoc.com", "sentiments": {"WGL": 30, "MapleLeafFoods": 20}, "timestamp": 1729544769}
+{"url": "https://www.latimes.com/entertainment-arts/business/story/2024-10-17/why-some-creatives-are-concerned-about-runways-deal-with-lionsgate?ref=biztoc.com", "sentiments": {"LGF.A": 30, "RUNWAY": 45}, "timestamp": 1729544789}
+{"url": "https://observer.com/2024/10/elliott-management-launch-southwest-airline-podcast/?ref=biztoc.com", "sentiments": {"LUV": 75, "ELLIOTT": 60}, "timestamp": 1729544807}
+{"url": "https://financialpost.com/news/retail-marketing/popeyes-vs-mary-browns-chicken-rivalry-brewing-atlantic-canada?ref=biztoc.com", "sentiments": {"POPEYES": 75, "MARYBROWNS": 60}, "timestamp": 1729544826}
+{"url": "https://finance.yahoo.com/quote/CCO", "sentiments": {"CCO": 75}, "timestamp": 1729544835}
+{"url": "https://techcrunch.com/2024/10/21/blade-runner-2049-producer-accuses-musk-and-tesla-of-circumventing-copyright-with-ai-imagery/?ref=biztoc.com", "sentiments": {"TSLA": 35}, "timestamp": 1729544866}
+{"url": "https://apnews.com/article/kaiser-strike-mental-health-california-3b2347ba23ca5ba7fff0afafc314bb26?ref=biztoc.com", "sentiments": {"KHC": 40}, "timestamp": 1729544874}
+{"url": "https://www.cnbc.com/2024/10/21/elon-musk-tesla-wbd-blade-runner-ai-robotaxi-.html?ref=biztoc.com", "sentiments": {"TSLA": 65, "WBD": 70}, "timestamp": 1729544904}
+{"url": "https://therecord.media/sophos-to-acquire-secureworks-859-million?ref=biztoc.com", "sentiments": {"SOPH": 70, "SCWX": 60}, "timestamp": 1729544930}
+{"url": "https://www.npr.org/2024/10/19/g-s1-29030/us-probe-tesla-full-self-driving-system?ref=biztoc.com", "sentiments": {"TSLA": 65}, "timestamp": 1729544947}
+{"url": "https://www.marketbeat.com/instant-alerts/nyse-are-earnings-guidance-2024-10-21/?ref=biztoc.com", "sentiments": {"ARE": 55}, "timestamp": 1729544995}
+{"url": "https://wolfstreet.com/2024/10/17/landing-cancelled-retail-sales-jump-prior-months-revised-up-boost-atlanta-fed-gdpnow-to-3-4-inflation-adjusted-gdp-growth/?ref=biztoc.com", "sentiments": {"AMZN": 65, "WMT": 70}, "timestamp": 1729545069}
+{"url": "https://www.coindesk.com/markets/2024/10/21/us-election-betting-kalshis-polymarket-rival-quickly-gets-traction/?ref=biztoc.com", "sentiments": {"KALSHI": 75, "POLYMARKET": 60}, "timestamp": 1729545144}
+{"url": "https://techcrunch.com/2024/10/21/one-zero-the-ai-fintech-started-by-the-founder-of-mobileeye-is-raising-100m-say-sources/?ref=biztoc.com", "sentiments": {"ONEZERO": 75, "MOBILEYE": 60}, "timestamp": 1729545153}
+{"url": "https://fortune.com/2024/10/21/sean-diddy-combs-gag-order-sexual-assault-trial-lawsuit/?ref=biztoc.com", "sentiments": {"SEANCE": 30, "CISE": 30}, "timestamp": 1729545170}
+{"url": "https://blockworks.co/news/tron-dao-supports-princeton-blockchain-clubs-crypto-tigertrek-as-ruby-sponsor?ref=biztoc.com", "sentiments": {"TRX": 70, "Tron": 70}, "timestamp": 1729545212}
+{"url": "https://finance.yahoo.com/quote/SAVE", "sentiments": {"SAVE": 75}, "timestamp": 1729545275}
+{"url": "https://investorplace.com/smartmoney/2024/10/big-tech-going-nuclear-best-way-to-profit/?ref=biztoc.com", "sentiments": {"AAPL": 75, "GOOGL": 80, "MSFT": 70}, "timestamp": 1729545306}
+{"url": "https://finance.yahoo.com/quote/TCBP", "sentiments": {"TCBP": 75}, "timestamp": 1729545311}
+{"url": "https://observer.com/2024/10/google-ceo-sundar-pichai-defend-office-perks/?ref=biztoc.com", "sentiments": {"GOOGL": 75}, "timestamp": 1729545318}
+{"url": "https://www.zerohedge.com/markets/bonds-bitcoin-dump-dollar-crude-jump-leading-economic-index-hits-8-year-lows?ref=biztoc.com", "sentiments": {"BTC": 30, "USD": 75}, "timestamp": 1729545324}
+{"url": "https://www.benzinga.com/general/biotech/24/10/41434586/fda-presses-clinical-hold-button-for-biontechs-partner-late-stage-trial-of-investigational-lung-c?ref=biztoc.com", "sentiments": {"BNTX": 20}, "timestamp": 1729545342}
+{"url": "https://financialpost.com/news/retail-marketing/metro-rolls-our-loyalty-program-ontario-stores?ref=biztoc.com", "sentiments": {"MTRO": 75}, "timestamp": 1729545377}
