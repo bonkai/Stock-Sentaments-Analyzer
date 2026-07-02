@@ -1,0 +1,10 @@
+{
+  "count": 3,
+  "pages": 1,
+  "current_page": 1,
+  "results": [
+    {"rank": 1, "ticker": "NVDA", "name": "NVIDIA", "mentions": 320, "upvotes": 1500, "rank_24h_ago": 2, "mentions_24h_ago": 280},
+    {"rank": 2, "ticker": "AMD", "name": "Advanced Micro Devices", "mentions": 210, "upvotes": 900, "rank_24h_ago": 1, "mentions_24h_ago": 240},
+    {"rank": 3, "ticker": "TSM", "name": "Taiwan Semiconductor", "mentions": 95, "upvotes": 400, "rank_24h_ago": 5, "mentions_24h_ago": 60}
+  ]
+}

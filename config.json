@@ -25,5 +25,50 @@
   "PROXIES": {
       "http": "http://your_proxy:port",
       "https": "https://your_proxy:port"
+  },
+
+  "_SSA_NOTE": "Phase-1 (fresh rebuild) scraper config. The legacy Ollama keys above (MODEL/API_URL/etc.) belong to the OLD pipeline and are untouched. ssa.* reads only the SSA block below plus USER_AGENTS/REQUEST_DELAY/MAX_RETRIES.",
+  "SSA": {
+      "OUTPUT_DIR": "outputs",
+      "ARTICLES_TEMPLATE": "articles_{}.jsonl",
+      "SEEN_STATE_FILE": "state/seen.json",
+      "WATCHLIST_FILE": "watchlist.json",
+
+      "EDGAR_CONTACT": "bonkaiii@gmail.com",
+      "EDGAR_USER_AGENT": "stock-sentaments-ssa/0.1 (bonkaiii@gmail.com)",
+      "_EDGAR_NOTE": "SEC fair-access REQUIRES a real contact email in the UA. This was seeded from the repo owner's git email — CONFIRM or replace it. A placeholder/bad UA risks an SEC IP block.",
+      "EDGAR_FORM_TYPE": "8-K",
+      "EDGAR_COUNT": 40,
+
+      "GDELT_QUERY": "(\"data center\" OR \"data centre\" OR datacenter OR \"AI chip\" OR \"AI accelerator\" OR hyperscaler OR \"grid capacity\") sourcelang:english",
+      "GDELT_MAXRECORDS": 75,
+      "GDELT_TIMESPAN": "1d",
+
+      "SECTOR_RSS_FEEDS": [
+          {"source": "dcd-rss", "url": "https://www.datacenterdynamics.com/en/rss/"},
+          {"source": "utilitydive-rss", "url": "https://www.utilitydive.com/feeds/news/"},
+          {"source": "semieng-rss", "url": "https://semiengineering.com/feed/"}
+      ],
+
+      "APEWISDOM_FILTER": "all-stocks",
+      "APEWISDOM_TOP_N": 50,
+
+      "YAHOO_MAX_TICKERS": 30,
+
+      "_TRIAGE_NOTE": "Phase-2 triage (hosted Gemini, PAID). Key from GOOGLE_API_KEY env var or gitignored .env — NEVER committed. Prices are $/1M tokens for spend-cap math and estimates; verified 2026-07-02 (gemini-3.1-flash-lite GA) — update if Google changes them.",
+      "TRIAGE_MODEL": "gemini-3.1-flash-lite",
+      "TRIAGE_MAX_WORKERS": 4,
+      "TRIAGE_SPEND_CAP_USD": 0.50,
+      "TRIAGE_MAX_INPUT_CHARS": 12000,
+      "TRIAGE_MAX_OUTPUT_TOKENS": 2048,
+      "TRIAGE_PRICE_IN_PER_1M": 0.25,
+      "TRIAGE_PRICE_OUT_PER_1M": 1.50,
+      "TRIAGE_TEMPLATE": "triage_{}.jsonl",
+      "TRIAGE_ALLOWLIST_FILE": "valid_tickers.txt",
+
+      "BIZTOC_FEED": "https://biztoc.com/feed",
+      "_BIZTOC_NOTE": "Phase-1b firehose: full body of every unread feed link. MAX_ARTICLES 0 = no cap (the feed itself bounds the batch); capping is logged. Bodies truncated to MAX_BODY_CHARS.",
+      "BIZTOC_MAX_ARTICLES": 0,
+      "BIZTOC_MAX_BODY_CHARS": 20000
   }
 }

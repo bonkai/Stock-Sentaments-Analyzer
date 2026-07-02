@@ -1,0 +1,16 @@
+{
+  "_PROVISIONAL": true,
+  "_banner": "PROVISIONAL WATCHLIST — seeded by the Phase-1 scraper build on 2026-06-23. The authoritative universe lives in memory/ai-buildout-investment-thesis.md, which is MISSING on disk. These tickers ONLY drive Yahoo per-ticker RSS in Phase 1 (no matching/scoring yet). REPLACE this with the real watchlist before relying on coverage.",
+  "_buckets": {
+    "ai_semis": "AI compute / semis / equipment",
+    "datacenter_power": "power, grid, cooling, electrical for datacenters",
+    "hyperscalers": "cloud buyers driving AI-buildout capex"
+  },
+  "tickers": [
+    "NVDA", "AMD", "AVGO", "TSM", "MU", "ASML", "AMAT", "LRCX", "KLAC",
+    "ARM", "INTC", "MRVL", "SMCI", "DELL", "ANET",
+    "VRT", "ETN", "POWL", "GEV", "PWR", "NVT", "CARR", "JCI",
+    "CEG", "VST", "NRG", "TLN",
+    "MSFT", "GOOGL", "AMZN", "META", "ORCL"
+  ]
+}

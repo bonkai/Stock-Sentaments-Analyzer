@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>DatacenterDynamics</title>
+  <link>https://www.datacenterdynamics.com/en/</link>
+  <description>Data center news</description>
+  <item>
+    <title>New 500MW data center campus announced in Virginia</title>
+    <link>https://www.datacenterdynamics.com/en/news/500mw-virginia-campus/</link>
+    <pubDate>Tue, 23 Jun 2026 08:00:00 GMT</pubDate>
+    <description>A hyperscale operator unveiled plans for a 500MW campus.</description>
+    <dc:creator>Staff Writer</dc:creator>
+  </item>
+  <item>
+    <title>Utility warns of grid capacity limits for AI loads</title>
+    <link>https://www.datacenterdynamics.com/en/news/grid-capacity-ai-loads/</link>
+    <pubDate>Tue, 23 Jun 2026 07:15:00 GMT</pubDate>
+    <description>Rising AI compute demand pressures regional grids.</description>
+  </item>
+</channel>
+</rss>

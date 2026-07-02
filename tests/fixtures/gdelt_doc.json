@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "url": "https://www.example-news.com/ai-datacenter-boom",
+      "url_mobile": "",
+      "title": "AI Datacenter Boom Strains Power Grids",
+      "seendate": "20260623T120000Z",
+      "socialimage": "",
+      "domain": "example-news.com",
+      "language": "English",
+      "sourcecountry": "United States"
+    },
+    {
+      "url": "https://www.another-site.org/chip-shortage?utm_campaign=gdelt",
+      "url_mobile": "",
+      "title": "Chip shortage eases as fabs ramp output",
+      "seendate": "20260623T090000Z",
+      "socialimage": "",
+      "domain": "another-site.org",
+      "language": "English",
+      "sourcecountry": "United Kingdom"
+    }
+  ]
+}

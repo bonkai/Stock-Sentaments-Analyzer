@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>NVDA - Yahoo Finance</title>
+  <link>https://finance.yahoo.com/quote/NVDA</link>
+  <description>Latest Financial News for NVDA</description>
+  <item>
+    <title>Nvidia hits record as data center demand surges - Reuters</title>
+    <link>https://finance.yahoo.com/news/nvidia-record-data-center-123456.html?utm_source=rss&amp;utm_medium=feed&amp;.tsrc=fin-srch&amp;fr=yhssrp</link>
+    <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
+    <description>Shares of Nvidia rose to a record high on surging data center demand.</description>
+    <guid isPermaLink="false">nvidia-record-123456</guid>
+  </item>
+  <item>
+    <title>AMD unveils new AI accelerator for datacenters</title>
+    <link>https://finance.yahoo.com/news/amd-ai-accelerator-654321.html</link>
+    <pubDate>Tue, 23 Jun 2026 10:30:00 GMT</pubDate>
+    <description>AMD announced its next-generation Instinct accelerator.</description>
+    <guid isPermaLink="false">amd-accel-654321</guid>
+  </item>
+</channel>
+</rss>

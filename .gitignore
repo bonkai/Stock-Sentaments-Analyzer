@@ -13,3 +13,12 @@ __pycache__/
 # Logs & scratch data
 *.log
 processed_urls.txt
+
+# --- ssa (Phase-1 rebuild) ---
+.venv/
+# dedup run-state (state/seen.json)
+state/
+# ssa scraper output (legacy market_sentiment_results_*.jsonl is left untouched)
+outputs/articles_*.jsonl
+__pycache__/
+.pytest_cache/

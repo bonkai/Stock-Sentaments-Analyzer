@@ -1,0 +1,10 @@
+# ssa scraper deps (fresh .venv — see CLAUDE/PLAN; legacy env/ is separate).
+# Deliberately minimal: RSS/API-first — no spaCy/tqdm from the legacy stack.
+requests>=2.31
+feedparser>=6.0
+# bs4 is scoped to the Phase-1b biztoc full-text firehose ONLY (function-local
+# import in ssa/sources/biztoc.py) — the rest of ssa/ stays RSS/API-light.
+beautifulsoup4>=4.12
+
+# dev / tests only
+pytest>=7.4

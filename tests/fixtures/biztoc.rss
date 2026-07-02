@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>biztoc.com</title>
+  <link>https://biztoc.com/</link>
+  <description>Business news firehose</description>
+  <item>
+    <title>Nvidia hits record as data center demand surges</title>
+    <link>https://biztoc.com/x/abc123def</link>
+    <pubDate>Tue, 23 Jun 2026 12:05:00 GMT</pubDate>
+    <description>Via Reuters: Nvidia shares rose to a record.</description>
+  </item>
+  <item>
+    <title>Constellation signs nuclear power deal for AI data centers</title>
+    <link>https://biztoc.com/x/zzz999</link>
+    <pubDate>Tue, 23 Jun 2026 11:00:00 GMT</pubDate>
+    <description>The utility will supply round-the-clock power.</description>
+  </item>
+</channel>
+</rss>

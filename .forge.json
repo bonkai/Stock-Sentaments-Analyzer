@@ -1,0 +1,25 @@
+{
+  "name": "stock_sentaments",
+  "description": "Scrape-to-LLM pipeline for stock news sentiment analysis",
+  "bundle": {
+    "include": [
+      "*.py",
+      "*.json",
+      "*.txt",
+      "*.md",
+      "outputs/analyze_sentiments.py",
+      "outputs/script.js"
+    ],
+    "exclude": [
+      "env/**",
+      "outputs/*.jsonl",
+      "outputs/*.html",
+      "*.log"
+    ]
+  },
+  "layout": {
+    "memory": "memory",
+    "knowledge": "knowledge",
+    "tasks": "tasks"
+  }
+}
